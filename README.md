@@ -4,20 +4,7 @@
 </p>
 <h3 align="center">Ad blocker with advanced privacy protection features</h3>
 <p align="center">
-  AdGuard is a fast and lightweight ad blocking browser extension<br/>that effectively blocks all types of ads and trackers.
-</p>
-
-
-<p align="center">
-    <a href="https://adguard.com/">AdGuard.com</a> |
-    <a href="https://reddit.com/r/Adguard">Reddit</a> |
-    <a href="https://twitter.com/AdGuard">Twitter</a> |
-    <a href="https://t.me/adguard_en">Telegram</a>
-    <br /><br />
-    </a>
-    <a href="https://github.com/AdguardTeam/AdguardBrowserExtension/releases">
-        <img src="https://img.shields.io/github/release/AdguardTeam/AdguardBrowserExtension/all.svg" alt="Latest release" />
-    </a>
+  Premium AdBlock is a fast and lightweight ad blocking browser extension<br/>that effectively blocks all types of ads and trackers.
 </p>
 
 <br />
@@ -28,9 +15,9 @@
 
 <hr />
 
-AdGuard is a fast and lightweight ad blocking browser extension that effectively blocks all types of ads and trackers on all web pages. We focus on advanced privacy protection features to not just block known trackers, but prevent web sites from building your shadow profile. Unlike its standalone counterparts (AG for Windows, Mac), the browser extension is completely free and open source. You can learn more about [the difference](https://adguard.com/compare.html) here.
+Premium AdBlock is a fast and lightweight ad blocking browser extension that effectively blocks all types of ads and trackers on all web pages. We focus on advanced privacy protection features to not just block known trackers, but prevent web sites from building your shadow profile. Unlike its standalone counterparts (AG for Windows, Mac), the browser extension is completely free and open source. You can learn more about [the difference](https://adguard.com/compare.html) here.
 
-> AdGuard does not collect any information about you, and does not participate in any acceptable ads program. The only source of income we have is selling premium versions of our software, and we intend to keep it that way.
+> Premium AdBlock does not collect any information about you, and does not participate in any acceptable ads program. The only source of income we have is selling premium versions of our software, and we intend to keep it that way.
 
 * [Installation](#installation)
   * [Chrome and Chromium-based browsers](#installation-chrome)
