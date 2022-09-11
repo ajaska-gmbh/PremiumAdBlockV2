@@ -3,7 +3,6 @@ import { observer } from 'mobx-react';
 
 import { rootStore } from '../../stores/RootStore';
 import {
-    CHANGELOG_URL,
     ACKNOWLEDGMENTS_URL,
     GITHUB_URL,
     PRIVACY_URL,
@@ -24,7 +23,7 @@ const About = observer(() => {
     }
 
     const currentYear = new Date().getFullYear();
-    const copyRightText = `© 2009-${currentYear} AdGuard Software Ltd.`;
+    const copyRightText = `© 2009-${currentYear} PremiumAdBlock`;
 
     return (
         <>
@@ -51,14 +50,6 @@ const About = observer(() => {
                     </div>
                 </div>
                 <div className="links-menu">
-                    <a
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        href={CHANGELOG_URL}
-                        className="links-menu__item"
-                    >
-                        {reactTranslator.getMessage('options_open_changelog')}
-                    </a>
                     <a
                         target="_blank"
                         rel="noopener noreferrer"

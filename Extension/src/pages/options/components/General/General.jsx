@@ -10,15 +10,15 @@ import { messenger } from '../../../services/messenger';
 import { hoursToMs, handleFileUpload } from '../../../helpers';
 import { reactTranslator } from '../../../../common/translators/reactTranslator';
 import { exportData, ExportTypes } from '../../../common/utils/export';
-import {
+/* import {
     isFirefox,
     isEdgeChromium,
     isOpera,
-} from '../../../../common/user-agent-utils';
+} from '../../../../common/user-agent-utils'; */
 import {
     APPEARANCE_THEMES,
     GITHUB_URL,
-    BROWSER_ADDON_STORE_LINKS,
+    // BROWSER_ADDON_STORE_LINKS,
 } from '../../../constants';
 
 const filtersUpdatePeriodOptions = [
@@ -69,6 +69,7 @@ const APPEARANCE_THEMES_OPTIONS = [
 
 const ALLOW_ACCEPTABLE_ADS = 'allowAcceptableAds';
 
+/*
 let currentBrowserAddonStoreUrl = BROWSER_ADDON_STORE_LINKS.CHROME;
 if (isFirefox) {
     currentBrowserAddonStoreUrl = BROWSER_ADDON_STORE_LINKS.FIREFOX;
@@ -76,7 +77,7 @@ if (isFirefox) {
     currentBrowserAddonStoreUrl = BROWSER_ADDON_STORE_LINKS.EDGE;
 } else if (isOpera) {
     currentBrowserAddonStoreUrl = BROWSER_ADDON_STORE_LINKS.OPERA;
-}
+} */
 
 const General = observer(() => {
     const {
@@ -240,14 +241,6 @@ const General = observer(() => {
                     className="links-menu__item"
                 >
                     {reactTranslator.getMessage('options_report_bug')}
-                </a>
-                <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    href={currentBrowserAddonStoreUrl}
-                    className="links-menu__item"
-                >
-                    {reactTranslator.getMessage('options_leave_feedback')}
                 </a>
             </div>
         </>
