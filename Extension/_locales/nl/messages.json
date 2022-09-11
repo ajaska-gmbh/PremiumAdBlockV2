@@ -27,10 +27,10 @@
         "message": "De bestandsextensie moet %extension% zijn"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard voor iOS"
+        "message": "Premium AdBlock voor iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard voor Android"
+        "message": "Premium AdBlock voor Android"
     },
     "options_filters_filter_version": {
         "message": "versie:"
@@ -45,7 +45,7 @@
         "message": "Meldingen uitschakelen"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard mobile aanschaffen"
+        "message": "Premium AdBlock mobile aanschaffen"
     },
     "options_popup_call_to_action": {
         "message": "Vul een geldig URL of bestandspad van de filter in het vak hierboven."
@@ -96,7 +96,7 @@
         "message": "Abonneer"
     },
     "name": {
-        "message": "AdGuard-advertentieblokkeerder"
+        "message": "Premium AdBlock-advertentieblokkeerder"
     },
     "description": {
         "message": "Ongeëvenaarde adblock invoegtoepassing tegen advertenties en pop-ups. Blokkeert advertenties op Facebook, YouTube en alle andere websites."
@@ -108,7 +108,7 @@
         "message": "Toestemmingslijst"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard filtert geen websites uit de toestemmingslijst."
+        "message": "Premium AdBlock filtert geen websites uit de toestemmingslijst."
     },
     "options_allowlist_invert": {
         "message": "Toestemmingslijst omkeren"
@@ -315,7 +315,7 @@
         "message": "zijn bijgewerkt."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard uitbreiding is succesvol bijgewerkt naar versie %current_version%"
+        "message": "Premium AdBlock uitbreiding is succesvol bijgewerkt naar versie %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Deze versie bevat hoofdzakelijk bugfixes en kleine verbeteringen."
@@ -327,7 +327,7 @@
         "message": "Wat is er nieuw in deze versie?"
     },
     "options_popup_version_update_offer": {
-        "message": "Wist je dat de functionaliteiten van AdGuard niet beperkt zijn tot deze browser?"
+        "message": "Wist je dat de functionaliteiten van Premium AdBlock niet beperkt zijn tot deze browser?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "Meer info"
@@ -342,7 +342,7 @@
         "message": "Alle gebruikersregels voor deze website verwijderen"
     },
     "popup_open_settings": {
-        "message": "AdGuard-instellingen"
+        "message": "Premium AdBlock-instellingen"
     },
     "popup_block_site_ads_android": {
         "message": "Advertenties blokkeren op een website"
@@ -372,19 +372,19 @@
         "message": "Rapporteer een probleem..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard kan niet worden uitgevoerd op dit domein"
+        "message": "Premium AdBlock kan niet worden uitgevoerd op dit domein"
     },
     "context_disable_protection": {
-        "message": "AdGuard-bescherming pauzeren"
+        "message": "Premium AdBlock-bescherming pauzeren"
     },
     "context_enable_protection": {
-        "message": "AdGuard-bescherming hervatten"
+        "message": "Premium AdBlock-bescherming hervatten"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard-bescherming is gepauzeerd"
+        "message": "Premium AdBlock-bescherming is gepauzeerd"
     },
     "context_open_settings": {
-        "message": "AdGuard-instellingen"
+        "message": "Premium AdBlock-instellingen"
     },
     "context_open_log": {
         "message": "Filterlogboek..."
@@ -606,7 +606,7 @@
         "message": "Aangepast"
     },
     "options_settings": {
-        "message": "AdGuard-instellingen"
+        "message": "Premium AdBlock-instellingen"
     },
     "options_general_settings": {
         "message": "Algemene instellingen"
@@ -618,7 +618,7 @@
         "message": "<a>Zelfpromotie van websites en contextgebaseerde advertenties<\/a> die in de zoekresultaten verschijnen verwijderen"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Aantal geblokkeerde advertenties weergeven op het AdGuard uitbreidingspictogram"
+        "message": "Aantal geblokkeerde advertenties weergeven op het Premium AdBlock uitbreidingspictogram"
     },
     "options_enable_autodetect_filter": {
         "message": "De meest geschikte filters automatisch activeren"
@@ -693,16 +693,16 @@
         "message": "Phishing- en malware-bescherming"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "AdGuard Browsing Security-module inschakelen die potentieel kwaadaardige en phishing-sites detecteert door ze te vergelijken met een online database. <a>Meer lezen<\/a>"
+        "message": "Premium AdBlock Browsing Security-module inschakelen die potentieel kwaadaardige en phishing-sites detecteert door ze te vergelijken met een online database. <a>Meer lezen<\/a>"
     },
     "options_site": {
         "message": "Officiële website"
     },
     "options_discuss": {
-        "message": "AdGuard discussie"
+        "message": "Premium AdBlock discussie"
     },
     "options_do_you_like_question": {
-        "message": "Vind je AdGuard goed?"
+        "message": "Vind je Premium AdBlock goed?"
     },
     "options_footer_like_us_cta": {
         "message": "Beoordeel het!"
@@ -711,7 +711,7 @@
         "message": "Overig"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Informatie weergeven over de volledige versie van AdGuard"
+        "message": "Informatie weergeven over de volledige versie van Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Updates melden"
@@ -735,13 +735,13 @@
         "message": "Fout bij het herstellen van instellingen"
     },
     "options_collect_hit_stats_title": {
-        "message": "Helpen bij de ontwikkeling van AdGuard-filters"
+        "message": "Helpen bij de ontwikkeling van Premium AdBlock-filters"
     },
     "options_collect_hit_stats_desc": {
         "message": "<a>Anonieme statistieken over het gebruik van advertentiefilters<\/a> versturen, zodat wij ze kunnen verbeteren en optimaliseren."
     },
     "options_show_context_menu_title": {
-        "message": "AdGuard item toevoegen aan het contextmenu van de webbrowser"
+        "message": "Premium AdBlock item toevoegen aan het contextmenu van de webbrowser"
     },
     "options_use_optimized_filters": {
         "message": "Geoptimaliseerde filters gebruiken"
@@ -798,13 +798,13 @@
         "message": "Traceerparameters verwijderen"
     },
     "options_strip_tracking_params_description": {
-        "message": "Parameters uit webverzoeken verwijderen met AdGuard URL Tracking-filter"
+        "message": "Parameters uit webverzoeken verwijderen met Premium AdBlock URL Tracking-filter"
     },
     "options_block_known_trackers_title": {
         "message": "Volgers blokkeren"
     },
     "options_block_known_trackers_description": {
-        "message": "Volgers en webanalysetools blokkeren met AdGuard Tracking Protection-filter."
+        "message": "Volgers en webanalysetools blokkeren met Premium AdBlock Tracking Protection-filter."
     },
     "options_third_party_title": {
         "message": "Zelf-vernietigende cookies van derden"
@@ -846,7 +846,7 @@
         "message": "Bescherming schakelaar"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Over"
@@ -873,7 +873,7 @@
         "message": "Verwijderen"
     },
     "options_nav_better_than_extension": {
-        "message": "Waarom is de AdGuard-app beter dan de uitbreiding?"
+        "message": "Waarom is de Premium AdBlock-app beter dan de uitbreiding?"
     },
     "options_nav_compare": {
         "message": "Vergelijken"
@@ -882,7 +882,7 @@
         "message": "Zoeken"
     },
     "options_about_title": {
-        "message": "AdGuard Browser uitbreiding"
+        "message": "Premium AdBlock Browser uitbreiding"
     },
     "group_description_adblocking": {
         "message": "Hier advertentieblokkering configureren om voor eens en voor altijd vervelende banners, pop-ups, videoadvertenties en dergelijke aan te pakken."
@@ -900,7 +900,7 @@
         "message": "Jezelf beschermen tegen malware, phishing en andere online bedreigingen."
     },
     "group_description_miscellaneous": {
-        "message": "Meer instellingen om je websurfen met AdGuard nog verder te configureren."
+        "message": "Meer instellingen om je websurfen met Premium AdBlock nog verder te configureren."
     },
     "group_description_custom": {
         "message": "Je eigen filters maken om webfiltering naar je voorkeur af te stemmen."
@@ -1023,13 +1023,13 @@
         "message": "Toegang geweigerd"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard heeft de toegang tot deze pagina geblokkeerd"
+        "message": "Premium AdBlock heeft de toegang tot deze pagina geblokkeerd"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Geblokkeerd door AdGuard"
+        "message": "Geblokkeerd door Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard heeft voorkomen dat deze pagina wordt geladen vanwege de volgende filterregel"
+        "message": "Premium AdBlock heeft voorkomen dat deze pagina wordt geladen vanwege de volgende filterregel"
     },
     "blocking_pages_btn_go_back": {
         "message": "Teruggaan"

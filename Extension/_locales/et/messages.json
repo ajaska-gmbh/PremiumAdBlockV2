@@ -18,10 +18,10 @@
         "message": "Käivita filtrite uuendamine"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "Premium AdBlock for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard Androidile"
+        "message": "Premium AdBlock Androidile"
     },
     "options_filters_filter_version": {
         "message": "versioon:"
@@ -33,7 +33,7 @@
         "message": "Lülita teavitused välja"
     },
     "popup_adguard_footer_title": {
-        "message": "Paigalda AdGuard oma telefoni"
+        "message": "Paigalda Premium AdBlock oma telefoni"
     },
     "options_popup_call_to_action": {
         "message": "Lisa filtri URL või asukoht ülemisse kasti."
@@ -78,7 +78,7 @@
         "message": "Telli"
     },
     "name": {
-        "message": "AdGuardi reklaamiblokeerija"
+        "message": "Premium AdBlocki reklaamiblokeerija"
     },
     "description": {
         "message": "Konkurentsitult parim reklaamiblokeerija, mis blokeerib reklaame ja hüpikaknaid kõikjal, sh Facebookis, Youtubes ja teistel lehtedel."
@@ -258,7 +258,7 @@
         "message": "Mis selles versioonis uut on?"
     },
     "options_popup_version_update_offer": {
-        "message": "Kas teadsid, et AdGuardi võimalused ei piirdu ainult brauserilaiendusega?"
+        "message": "Kas teadsid, et Premium AdBlocki võimalused ei piirdu ainult brauserilaiendusega?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ROHKEM TEAVET"
@@ -270,7 +270,7 @@
         "message": "Kontrolli veebilehe turvalisust"
     },
     "popup_open_settings": {
-        "message": "AdGuardi seaded"
+        "message": "Premium AdBlocki seaded"
     },
     "popup_block_site_ads_android": {
         "message": "Blokeeri veebilehel reklaami"
@@ -297,19 +297,19 @@
         "message": "Teavita probleemist..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ei saa sellel domeenil töötada"
+        "message": "Premium AdBlock ei saa sellel domeenil töötada"
     },
     "context_disable_protection": {
-        "message": "Peata AdGuardi kaitse"
+        "message": "Peata Premium AdBlocki kaitse"
     },
     "context_enable_protection": {
-        "message": "Lülita AdGuardi kaitse sisse"
+        "message": "Lülita Premium AdBlocki kaitse sisse"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardi kaitse on peatatud"
+        "message": "Premium AdBlocki kaitse on peatatud"
     },
     "context_open_settings": {
-        "message": "AdGuardi seaded..."
+        "message": "Premium AdBlocki seaded..."
     },
     "context_open_log": {
         "message": "Filtreerimise logi..."
@@ -405,7 +405,7 @@
         "message": "Töödeldud"
     },
     "options_settings": {
-        "message": "AdGuardi seaded"
+        "message": "Premium AdBlocki seaded"
     },
     "options_general_settings": {
         "message": "Üldine"
@@ -447,7 +447,7 @@
         "message": "Avalda arvamust"
     },
     "options_show_app_updated_notification": {
-        "message": "Teavita mind AdGuardi brauserilisa uuendustest"
+        "message": "Teavita mind Premium AdBlocki brauserilisa uuendustest"
     },
     "options_reset_stats_done": {
         "message": "Statistika on nullitud"
@@ -546,6 +546,6 @@
         "message": "Üldine"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     }
 }

@@ -27,10 +27,10 @@
         "message": "파일 확장자가 %extension% 형식이어야만 합니다"
     },
     "popup_adguard_for_ios": {
-        "message": "iOS용 AdGuard"
+        "message": "iOS용 Premium AdBlock"
     },
     "popup_adguard_for_android": {
-        "message": "Android용 AdGuard"
+        "message": "Android용 Premium AdBlock"
     },
     "options_filters_filter_version": {
         "message": "버전:"
@@ -45,7 +45,7 @@
         "message": "알림 비활성화"
     },
     "popup_adguard_footer_title": {
-        "message": "모바일용 AdGuard 설치"
+        "message": "모바일용 Premium AdBlock 설치"
     },
     "options_popup_call_to_action": {
         "message": "필터의 올바른 URL 또는 파일 경로를 위의 필드에 입력하세요."
@@ -96,7 +96,7 @@
         "message": "구독"
     },
     "name": {
-        "message": "AdGuard 광고차단기"
+        "message": "Premium AdBlock 광고차단기"
     },
     "description": {
         "message": "광고, 팝업, Facebook이나 YouTube 등 사이트의 광고를 차단하는 타의 추종을 불허하는 광고 차단 확장 프로그램입니다."
@@ -108,7 +108,7 @@
         "message": "허용 목록"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard는 허용 목록에 있는 웹 사이트를 필터링하지 않습니다."
+        "message": "Premium AdBlock는 허용 목록에 있는 웹 사이트를 필터링하지 않습니다."
     },
     "options_allowlist_invert": {
         "message": "허용 목록 반전"
@@ -315,7 +315,7 @@
         "message": "가 업데이트 되었습니다."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard 확장 프로그램이 %current_version% 버전으로 업데이트 되었습니다."
+        "message": "Premium AdBlock 확장 프로그램이 %current_version% 버전으로 업데이트 되었습니다."
     },
     "options_popup_version_update_description_minor": {
         "message": "이 버전은 버그 수정과 마이너한 기능 개선이 포함되어 있습니다."
@@ -327,7 +327,7 @@
         "message": "이번 버전의 업데이트 내역"
     },
     "options_popup_version_update_offer": {
-        "message": "AdGuard 기능이 이 브라우저에만 제한되지 않는다는 사실을 알고 계시나요?"
+        "message": "Premium AdBlock 기능이 이 브라우저에만 제한되지 않는다는 사실을 알고 계시나요?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "더 알아보기"
@@ -342,7 +342,7 @@
         "message": "이 페이지에 대한 모든 사용자 규칙 제거"
     },
     "popup_open_settings": {
-        "message": "AdGuard 설정"
+        "message": "Premium AdBlock 설정"
     },
     "popup_block_site_ads_android": {
         "message": "이 웹사이트에서 광고 차단"
@@ -372,19 +372,19 @@
         "message": "문제 제보하기..."
     },
     "context_site_filtering_disabled": {
-        "message": "이 도메인에서 AdGuard 실행할 수 없음"
+        "message": "이 도메인에서 Premium AdBlock 실행할 수 없음"
     },
     "context_disable_protection": {
-        "message": "AdGuard 보호 일시 정지"
+        "message": "Premium AdBlock 보호 일시 정지"
     },
     "context_enable_protection": {
-        "message": "AdGuard 보호 재시작"
+        "message": "Premium AdBlock 보호 재시작"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard 보호 일시 정지됨"
+        "message": "Premium AdBlock 보호 일시 정지됨"
     },
     "context_open_settings": {
-        "message": "AdGuard 설정..."
+        "message": "Premium AdBlock 설정..."
     },
     "context_open_log": {
         "message": "필터링 로그..."
@@ -606,7 +606,7 @@
         "message": "수정됨"
     },
     "options_settings": {
-        "message": "AdGuard 설정"
+        "message": "Premium AdBlock 설정"
     },
     "options_general_settings": {
         "message": "일반"
@@ -618,7 +618,7 @@
         "message": "검색 결과에 표시되는 <a>컨텍스트 기반 광고와 자체 홍보 광고를<\/a> 차단하세요."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "차단된 광고의 수를 AdGuard 확장 프로그램 아이콘에 표시"
+        "message": "차단된 광고의 수를 Premium AdBlock 확장 프로그램 아이콘에 표시"
     },
     "options_enable_autodetect_filter": {
         "message": "가장 적당한 필터들을 자동으로 활성화"
@@ -693,16 +693,16 @@
         "message": "피싱, 멀웨어 보호"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "AdGuard 브라우징 보안 모듈이 활성화되면 온라인 데이터베이스를 통해 잠재적으로 악성 및 피싱 사이트를 확인하고 탐지합니다. <a>자세히 알아보기<\/a>"
+        "message": "Premium AdBlock 브라우징 보안 모듈이 활성화되면 온라인 데이터베이스를 통해 잠재적으로 악성 및 피싱 사이트를 확인하고 탐지합니다. <a>자세히 알아보기<\/a>"
     },
     "options_site": {
         "message": "공식 웹사이트"
     },
     "options_discuss": {
-        "message": "AdGuard 의견 나눔"
+        "message": "Premium AdBlock 의견 나눔"
     },
     "options_do_you_like_question": {
-        "message": "AdGuard가 마음에 드시나요?"
+        "message": "Premium AdBlock가 마음에 드시나요?"
     },
     "options_footer_like_us_cta": {
         "message": "평가해주세요!"
@@ -711,7 +711,7 @@
         "message": "추가 설정"
     },
     "options_show_adguard_full_version_title": {
-        "message": "AdGuard 전체 버전 정보 보기"
+        "message": "Premium AdBlock 전체 버전 정보 보기"
     },
     "options_show_app_updated_notification": {
         "message": "필터 업데이트 알림"
@@ -735,13 +735,13 @@
         "message": "설정을 초기화하는 동안 오류가 발생했습니다"
     },
     "options_collect_hit_stats_title": {
-        "message": "AdGuard 필터 개발을 도와주세요"
+        "message": "Premium AdBlock 필터 개발을 도와주세요"
     },
     "options_collect_hit_stats_desc": {
         "message": "저희가 필터를 개선하고 최적화하는 데 도움을 주는 <a>광고 필터 사용에 대한 익명 통계<\/a>를 전송합니다."
     },
     "options_show_context_menu_title": {
-        "message": "AdGuard 항목을 브라우저 콘텍스트 메뉴에 추가"
+        "message": "Premium AdBlock 항목을 브라우저 콘텍스트 메뉴에 추가"
     },
     "options_use_optimized_filters": {
         "message": "최적화된 필터 사용하기"
@@ -798,13 +798,13 @@
         "message": "추적 매개 변수 제거"
     },
     "options_strip_tracking_params_description": {
-        "message": "AdGuard URL 추적 필터를 사용하여 웹 요청에서 매개변수를 제거합니다."
+        "message": "Premium AdBlock URL 추적 필터를 사용하여 웹 요청에서 매개변수를 제거합니다."
     },
     "options_block_known_trackers_title": {
         "message": "추적기 차단"
     },
     "options_block_known_trackers_description": {
-        "message": "AdGuard 추적 방지 필터를 사용하여 추적기 및 웹 분석 도구를 차단합니다."
+        "message": "Premium AdBlock 추적 방지 필터를 사용하여 추적기 및 웹 분석 도구를 차단합니다."
     },
     "options_third_party_title": {
         "message": "서드파티 쿠키 자동 파괴"
@@ -846,7 +846,7 @@
         "message": "보호 스위치"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "정보"
@@ -873,7 +873,7 @@
         "message": "제거"
     },
     "options_nav_better_than_extension": {
-        "message": "AdGuard 앱이 확장 프로그램보다 나은 이유는 무엇인가요?"
+        "message": "Premium AdBlock 앱이 확장 프로그램보다 나은 이유는 무엇인가요?"
     },
     "options_nav_compare": {
         "message": "차이점 비교해보기"
@@ -882,7 +882,7 @@
         "message": "검색"
     },
     "options_about_title": {
-        "message": "AdGuard 브라우저 확장 프로그램"
+        "message": "Premium AdBlock 브라우저 확장 프로그램"
     },
     "group_description_adblocking": {
         "message": "배너, 팝업, 동영상 광고 등을 차단하려면 여기에서 광고 차단을 설정하세요."
@@ -900,7 +900,7 @@
         "message": "맬웨어, 피싱 및 기타 온라인 위협으로부터 자신을 보호하세요."
     },
     "group_description_miscellaneous": {
-        "message": "더 많은 AdGuard 설정을 통해 웹 서핑을 더 잘 제어하세요."
+        "message": "더 많은 Premium AdBlock 설정을 통해 웹 서핑을 더 잘 제어하세요."
     },
     "group_description_custom": {
         "message": "자신만의 필터를 원하는 대로 만들어 세세하게 웹을 필터링하세요."
@@ -1023,13 +1023,13 @@
         "message": "접근 거부됨"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard가 이 페이지 접근을 차단하였습니다"
+        "message": "Premium AdBlock가 이 페이지 접근을 차단하였습니다"
     },
     "blocking_pages_rule_header_title": {
-        "message": "AdGuard에 의해 차단됨"
+        "message": "Premium AdBlock에 의해 차단됨"
     },
     "blocking_pages_rule_content_title": {
-        "message": "다음 필터 규칙으로 인해 AdGuard에서 이 페이지를 로드하지 못했습니다"
+        "message": "다음 필터 규칙으로 인해 Premium AdBlock에서 이 페이지를 로드하지 못했습니다"
     },
     "blocking_pages_btn_go_back": {
         "message": "뒤로가기"

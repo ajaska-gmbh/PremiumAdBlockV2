@@ -18,10 +18,10 @@
         "message": "ตรวจสอบการอัปเดตตัวกรอง"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard สำหรับ iOS"
+        "message": "Premium AdBlock สำหรับ iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard สำหรับ Android"
+        "message": "Premium AdBlock สำหรับ Android"
     },
     "options_filters_filter_version": {
         "message": "รุ่น:"
@@ -33,7 +33,7 @@
         "message": "ปิดการแจ้งเตือน"
     },
     "popup_adguard_footer_title": {
-        "message": "รับ AdGuard สำหรับมือถือของคุณ"
+        "message": "รับ Premium AdBlock สำหรับมือถือของคุณ"
     },
     "options_popup_call_to_action": {
         "message": "ป้อน URL หรือเส้นทางไฟล์ที่ถูกต้องของตัวกรองลงในช่องด้านบน"
@@ -81,7 +81,7 @@
         "message": "สมัครสมาชิก"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "description": {
         "message": "ส่วนขยาย adblock ที่ไม่ตรงกันกับการโฆษณาและป๊อปอัป ปิดกั้นโฆษณาบน Facebook, YouTube และเว็บไซต์อื่น ๆ ทั้งหมด"
@@ -261,7 +261,7 @@
         "message": "รุ่นนี้มีอะไรใหม่บ้าง"
     },
     "options_popup_version_update_offer": {
-        "message": "คุณรู้หรือไม่ว่าความสามารถของ AdGuard ไม่ได้จำกัดอยู่ที่เบราว์เซอร์นี้?"
+        "message": "คุณรู้หรือไม่ว่าความสามารถของ Premium AdBlock ไม่ได้จำกัดอยู่ที่เบราว์เซอร์นี้?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "เรียนรู้เพิ่มเติม"
@@ -270,7 +270,7 @@
         "message": "ปิดกั้นโฆษณาบนเว็บไซต์นี้"
     },
     "popup_open_settings": {
-        "message": "การตั้งค่า AdGuard"
+        "message": "การตั้งค่า Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "บล็อกโฆษณาบนเว็บไซต์"
@@ -291,19 +291,19 @@
         "message": "ปิดกั้นองค์ประกอบ..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ไม่สามารถทำงานบนโดเมนนี้ได้"
+        "message": "Premium AdBlock ไม่สามารถทำงานบนโดเมนนี้ได้"
     },
     "context_disable_protection": {
-        "message": "หยุดการปกป้องจาก AdGuard ชั่วคราว"
+        "message": "หยุดการปกป้องจาก Premium AdBlock ชั่วคราว"
     },
     "context_enable_protection": {
-        "message": "ดำเนินการป้องกัน AdGuard ต่อ"
+        "message": "ดำเนินการป้องกัน Premium AdBlock ต่อ"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard หยุดการป้องกันชั่วคราว"
+        "message": "Premium AdBlock หยุดการป้องกันชั่วคราว"
     },
     "context_open_settings": {
-        "message": "AdGuard การตั้งค่า..."
+        "message": "Premium AdBlock การตั้งค่า..."
     },
     "context_open_log": {
         "message": "บันทึกการกรอง..."
@@ -402,7 +402,7 @@
         "message": "การประมวลผล"
     },
     "options_settings": {
-        "message": "การตั้งค่า AdGuard"
+        "message": "การตั้งค่า Premium AdBlock"
     },
     "options_general_settings": {
         "message": "ทั่วไป"
@@ -444,7 +444,7 @@
         "message": "เว็บไซต์ทางการ"
     },
     "options_discuss": {
-        "message": "พูดคุย AdGuard"
+        "message": "พูดคุย Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "แจ้งเตือนเกี่ยวกับการอัปเดตส่วนขยาย"
@@ -552,13 +552,13 @@
         "message": "ปฏิเสธการเข้าใช้"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard ได้ปิดกั้นการเข้าถึงหน้านี้"
+        "message": "Premium AdBlock ได้ปิดกั้นการเข้าถึงหน้านี้"
     },
     "blocking_pages_rule_header_title": {
-        "message": "ถูกปิดกั้นโดย AdGuard"
+        "message": "ถูกปิดกั้นโดย Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard ป้องกันหน้านี้ไม่ให้โหลดเนื่องจากกฎตัวกรองต่อไปนี้"
+        "message": "Premium AdBlock ป้องกันหน้านี้ไม่ให้โหลดเนื่องจากกฎตัวกรองต่อไปนี้"
     },
     "blocking_pages_btn_go_back": {
         "message": "กลับไป"
@@ -567,6 +567,6 @@
         "message": "ดำเนินการต่อ"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     }
 }

@@ -39,7 +39,7 @@
         "message": "URL:"
     },
     "name": {
-        "message": "AdGuard рекламен блокер"
+        "message": "Premium AdBlock рекламен блокер"
     },
     "options_userfilter": {
         "message": "Потребителски филтър"
@@ -99,7 +99,7 @@
         "message": "Проверка на сигурността на уебсайта"
     },
     "popup_open_settings": {
-        "message": "AdGuard настройки"
+        "message": "Premium AdBlock настройки"
     },
     "popup_block_site_ads_android": {
         "message": "Блокирай рекламата на този сайт"
@@ -120,19 +120,19 @@
         "message": "Блокирай елемент..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard не може да работи на този домейн"
+        "message": "Premium AdBlock не може да работи на този домейн"
     },
     "context_disable_protection": {
-        "message": "Пауза на защитата AdGuard"
+        "message": "Пауза на защитата Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Пусни отново защитата AdGuard"
+        "message": "Пусни отново защитата Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard защитата е в пауза"
+        "message": "Premium AdBlock защитата е в пауза"
     },
     "context_open_settings": {
-        "message": "AdGuard настройки..."
+        "message": "Premium AdBlock настройки..."
     },
     "context_open_log": {
         "message": "Дневник на филтрирането..."
@@ -258,7 +258,7 @@
         "message": "Modified"
     },
     "options_settings": {
-        "message": "AdGuard настройки"
+        "message": "Premium AdBlock настройки"
     },
     "options_general_settings": {
         "message": "Общи настройки"
@@ -333,7 +333,7 @@
         "message": "Действия"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Относно"

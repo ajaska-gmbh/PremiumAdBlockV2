@@ -27,10 +27,10 @@
         "message": "ファイル拡張子は %extension% になっている必要があります"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "Premium AdBlock for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+        "message": "Premium AdBlock for Android"
     },
     "options_filters_filter_version": {
         "message": "バージョン："
@@ -45,7 +45,7 @@
         "message": "通知を無効にする"
     },
     "popup_adguard_footer_title": {
-        "message": "モバイル用AdGuardをゲット"
+        "message": "モバイル用Premium AdBlockをゲット"
     },
     "options_popup_call_to_action": {
         "message": "有効なURLまたはフィルタのファイルパスを上の欄に入力してください。"
@@ -96,10 +96,10 @@
         "message": "サブスクライブする"
     },
     "name": {
-        "message": "AdGuard 広告ブロッカー"
+        "message": "Premium AdBlock 広告ブロッカー"
     },
     "description": {
-        "message": "AdGuardは、広告やポップアップ対処には比類のない広告ブロック拡張機能です。Facebook、YouTubeやその他のサイトで広告をブロックします。"
+        "message": "Premium AdBlockは、広告やポップアップ対処には比類のない広告ブロック拡張機能です。Facebook、YouTubeやその他のサイトで広告をブロックします。"
     },
     "background_tab_title": {
         "message": "バックグラウンド・タブ"
@@ -108,7 +108,7 @@
         "message": "ホワイトリスト"
     },
     "options_allowlist_desc": {
-        "message": "ホワイトリストにあるウェブサイトでAdGuardはフィルタリング（広告等をブロック）しません。"
+        "message": "ホワイトリストにあるウェブサイトでPremium AdBlockはフィルタリング（広告等をブロック）しません。"
     },
     "options_allowlist_invert": {
         "message": "ホワイトリストを逆転する"
@@ -315,7 +315,7 @@
         "message": "は更新されました。"
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard拡張機能はただいま バージョン%current_version% にアップデートされました"
+        "message": "Premium AdBlock拡張機能はただいま バージョン%current_version% にアップデートされました"
     },
     "options_popup_version_update_description_minor": {
         "message": "このバージョンには主にバグ修正と軽微な改善が含まれています。"
@@ -327,7 +327,7 @@
         "message": "本バージョンの新機能"
     },
     "options_popup_version_update_offer": {
-        "message": "AdGuardの機能は本プラウザに限らないことはご存知ですか？"
+        "message": "Premium AdBlockの機能は本プラウザに限らないことはご存知ですか？"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "詳細はこちら"
@@ -342,7 +342,7 @@
         "message": "このページに対するユーザールールを全部削除する"
     },
     "popup_open_settings": {
-        "message": "AdGuard 設定"
+        "message": "Premium AdBlock 設定"
     },
     "popup_block_site_ads_android": {
         "message": "このウェブサイトの広告をブロックする"
@@ -354,7 +354,7 @@
         "message": "ホワイトリストに追加済み"
     },
     "popup_site_protection_disabled_android": {
-        "message": "AdGuardの保護は一時停止中"
+        "message": "Premium AdBlockの保護は一時停止中"
     },
     "popup_open_log_android": {
         "message": "フィルタリングログ"
@@ -372,19 +372,19 @@
         "message": "不具合・問題を報告する…"
     },
     "context_site_filtering_disabled": {
-        "message": "このドメインではAdGuardは動作できません"
+        "message": "このドメインではPremium AdBlockは動作できません"
     },
     "context_disable_protection": {
-        "message": "AdGuardの保護を一時的に停止する"
+        "message": "Premium AdBlockの保護を一時的に停止する"
     },
     "context_enable_protection": {
-        "message": "AdGuard保護を再開する"
+        "message": "Premium AdBlock保護を再開する"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardの保護を停止中"
+        "message": "Premium AdBlockの保護を停止中"
     },
     "context_open_settings": {
-        "message": "AdGuard 設定"
+        "message": "Premium AdBlock 設定"
     },
     "context_open_log": {
         "message": "フィルタリングログ..."
@@ -606,7 +606,7 @@
         "message": "修正済み"
     },
     "options_settings": {
-        "message": "AdGuard 設定"
+        "message": "Premium AdBlock 設定"
     },
     "options_general_settings": {
         "message": "一般"
@@ -618,7 +618,7 @@
         "message": "検索結果に表示される<a>サイトの自己宣伝やコンテキストベース広告<\/a>を排除します。"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "AdGuard拡張機能アイコンで広告ブロック数を表示する"
+        "message": "Premium AdBlock拡張機能アイコンで広告ブロック数を表示する"
     },
     "options_enable_autodetect_filter": {
         "message": "適切な言語フィルタを自動的に有効にする"
@@ -693,16 +693,16 @@
         "message": "フィッシング詐欺とマルウェアからの保護"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "「AdGuardブラウジングセキュリティ」機能が、訪問するサイトをオンラインデータベースと照合し、悪意のあるサイトやフィッシングサイトを検出します。<a>詳しくはこちら<\/a>"
+        "message": "「Premium AdBlockブラウジングセキュリティ」機能が、訪問するサイトをオンラインデータベースと照合し、悪意のあるサイトやフィッシングサイトを検出します。<a>詳しくはこちら<\/a>"
     },
     "options_site": {
         "message": "公式ウェブサイト"
     },
     "options_discuss": {
-        "message": "AdGuardについての意見交換"
+        "message": "Premium AdBlockについての意見交換"
     },
     "options_do_you_like_question": {
-        "message": "AdGuardを気に入っていますか？"
+        "message": "Premium AdBlockを気に入っていますか？"
     },
     "options_footer_like_us_cta": {
         "message": "評価する！"
@@ -711,7 +711,7 @@
         "message": "追加設定"
     },
     "options_show_adguard_full_version_title": {
-        "message": "AdGuardフルバージョンの情報を表示する"
+        "message": "Premium AdBlockフルバージョンの情報を表示する"
     },
     "options_show_app_updated_notification": {
         "message": "拡張機能のアップデートについて通知を受け取る"
@@ -735,13 +735,13 @@
         "message": "設定のリセット中にエラーが発生しました"
     },
     "options_collect_hit_stats_title": {
-        "message": "AdGuardフィルタの開発と改善に協力する"
+        "message": "Premium AdBlockフィルタの開発と改善に協力する"
     },
     "options_collect_hit_stats_desc": {
         "message": "広告フィルターの改善と最適化に役立つ、<a>広告フィルターの使用状況に関する匿名の統計情報<\/a>を送信します。"
     },
     "options_show_context_menu_title": {
-        "message": "ブラウザの右クリックメニューにAdGuardを追加する"
+        "message": "ブラウザの右クリックメニューにPremium AdBlockを追加する"
     },
     "options_use_optimized_filters": {
         "message": "最適化されたフィルタを使用する"
@@ -798,13 +798,13 @@
         "message": "追跡パラメータを削除する"
     },
     "options_strip_tracking_params_description": {
-        "message": "「AdGuard URL追跡防止フィルタ」を使ってページのURLから追跡パラメーターを取り除きます。"
+        "message": "「Premium AdBlock URL追跡防止フィルタ」を使ってページのURLから追跡パラメーターを取り除きます。"
     },
     "options_block_known_trackers_title": {
         "message": "トラッカー（個人情報追跡）をブロックする"
     },
     "options_block_known_trackers_description": {
-        "message": "「AdGuard追跡防止フィルタ」を使ってトラッカー（個人情報追跡ソフトウェア）とウェブ分析ツールをブロックします。"
+        "message": "「Premium AdBlock追跡防止フィルタ」を使ってトラッカー（個人情報追跡ソフトウェア）とウェブ分析ツールをブロックします。"
     },
     "options_third_party_title": {
         "message": "サードパーティクッキーの自動削除"
@@ -846,10 +846,10 @@
         "message": "保護スイッチ"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
-        "message": "AdGuardについて"
+        "message": "Premium AdBlockについて"
     },
     "options_privacy_policy": {
         "message": "プライバシーポリシー"
@@ -873,7 +873,7 @@
         "message": "削除"
     },
     "options_nav_better_than_extension": {
-        "message": "AdGuardアプリ版が拡張機能版よりも優れている理由は？"
+        "message": "Premium AdBlockアプリ版が拡張機能版よりも優れている理由は？"
     },
     "options_nav_compare": {
         "message": "比較を見る"
@@ -882,7 +882,7 @@
         "message": "検索"
     },
     "options_about_title": {
-        "message": "AdGuardブラウザ拡張機能"
+        "message": "Premium AdBlockブラウザ拡張機能"
     },
     "group_description_adblocking": {
         "message": "こちらで広告ブロックを設定して、迷惑なバナー、ポップアップ、ビデオ広告などすべてを一掃することができます。"
@@ -900,7 +900,7 @@
         "message": "マルウェア、フィッシング詐欺やその他のオンライン脅威から保護します。"
     },
     "group_description_miscellaneous": {
-        "message": "AdGuardを使用したウェブサーフィンをさらに微調整するための追加設定です。"
+        "message": "Premium AdBlockを使用したウェブサーフィンをさらに微調整するための追加設定です。"
     },
     "group_description_custom": {
         "message": "独自のフィルタを作成・追加することで、ご自身に合わせてフィルタリング（広告ブロック）をさらにカスタマイズすることができます。"
@@ -1023,13 +1023,13 @@
         "message": "アクセス拒否"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuardはこのページへのアクセスをブロックしました"
+        "message": "Premium AdBlockはこのページへのアクセスをブロックしました"
     },
     "blocking_pages_rule_header_title": {
-        "message": "AdGuardによってブロックされました"
+        "message": "Premium AdBlockによってブロックされました"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuardは以下のフィルタリング・ルールに従って、このページの読み込みを防止しました:"
+        "message": "Premium AdBlockは以下のフィルタリング・ルールに従って、このページの読み込みを防止しました:"
     },
     "blocking_pages_btn_go_back": {
         "message": "戻る"

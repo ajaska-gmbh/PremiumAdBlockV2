@@ -27,10 +27,10 @@
         "message": "Přípona souboru rozšíření musí být %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard pro iOS"
+        "message": "Premium AdBlock pro iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard pro Android"
+        "message": "Premium AdBlock pro Android"
     },
     "options_filters_filter_version": {
         "message": "verze:"
@@ -45,7 +45,7 @@
         "message": "Zakázat oznámení"
     },
     "popup_adguard_footer_title": {
-        "message": "Získat AdGuard pro mobilní zařízení"
+        "message": "Získat Premium AdBlock pro mobilní zařízení"
     },
     "options_popup_call_to_action": {
         "message": "Zadejte platnou adresu URL nebo cestu k souboru filtru do výše uvedeného vstupního pole."
@@ -96,7 +96,7 @@
         "message": "Odebírat"
     },
     "name": {
-        "message": "Blokátor reklam AdGuard"
+        "message": "Blokátor reklam Premium AdBlock"
     },
     "description": {
         "message": "Nepřekonané rozšíření proti reklamám a vyskakovacím oknům. Blokuje reklamy na Facebooku, YouTube a všech ostatních stránkách."
@@ -108,7 +108,7 @@
         "message": "Seznam povolených"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard nefiltruje stránky v seznamu povolených."
+        "message": "Premium AdBlock nefiltruje stránky v seznamu povolených."
     },
     "options_allowlist_invert": {
         "message": "Invertovat seznam povolených"
@@ -315,7 +315,7 @@
         "message": "byly aktualizovány."
     },
     "options_popup_version_update_title_text": {
-        "message": "Rozšíření AdGuardu bylo aktualizováno na verzi %current_version%"
+        "message": "Rozšíření Premium AdBlocku bylo aktualizováno na verzi %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Tato verze obsahuje většinou opravy chyb a drobná vylepšení."
@@ -327,7 +327,7 @@
         "message": "Co je nového v této verzi?"
     },
     "options_popup_version_update_offer": {
-        "message": "Věděli jste, že funkce AdGuardu nejsou pro tento prohlížeč omezeny?"
+        "message": "Věděli jste, že funkce Premium AdBlocku nejsou pro tento prohlížeč omezeny?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ZJISTIT VÍCE"
@@ -342,7 +342,7 @@
         "message": "Vymazat všechna vlastní pravidla pro tuto stránku"
     },
     "popup_open_settings": {
-        "message": "Nastavení AdGuardu"
+        "message": "Nastavení Premium AdBlocku"
     },
     "popup_block_site_ads_android": {
         "message": "Blokovat reklamu na webové stránce"
@@ -372,19 +372,19 @@
         "message": "Nahlásit problém..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard nefunguje na této doméně"
+        "message": "Premium AdBlock nefunguje na této doméně"
     },
     "context_disable_protection": {
-        "message": "Pozastavit ochranu AdGuard"
+        "message": "Pozastavit ochranu Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Obnovit ochranu AdGuard"
+        "message": "Obnovit ochranu Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Ochrana AdGuard je pozastavena"
+        "message": "Ochrana Premium AdBlock je pozastavena"
     },
     "context_open_settings": {
-        "message": "Nastavení AdGuardu..."
+        "message": "Nastavení Premium AdBlocku..."
     },
     "context_open_log": {
         "message": "Záznam filtrování..."
@@ -606,7 +606,7 @@
         "message": "Modifikováno"
     },
     "options_settings": {
-        "message": "Nastavení AdGuardu"
+        "message": "Nastavení Premium AdBlocku"
     },
     "options_general_settings": {
         "message": "Obecné"
@@ -618,7 +618,7 @@
         "message": "Zbavte se <a>kontextových reklam a vlastní propagace na webových stránkách<\/a>, které se zobrazují ve výsledcích vyhledávání."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Uvést počet blokovaných reklam na ikoně rozšíření AdGuard"
+        "message": "Uvést počet blokovaných reklam na ikoně rozšíření Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Aktivovat nejvhodnější filtry automaticky"
@@ -693,16 +693,16 @@
         "message": "Ochrana proti phishingu a škodlivému softwaru"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Zapne modul Bezpečné prohlížení AdGuard, který detekuje potenciálně škodlivé stránky a krádež identity jejich kontrolou v online databázi. <a>Další informece<\/a>"
+        "message": "Zapne modul Bezpečné prohlížení Premium AdBlock, který detekuje potenciálně škodlivé stránky a krádež identity jejich kontrolou v online databázi. <a>Další informece<\/a>"
     },
     "options_site": {
         "message": "Oficiální stránka"
     },
     "options_discuss": {
-        "message": "Diskuse AdGuard"
+        "message": "Diskuse Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Líbí se vám AdGuard?"
+        "message": "Líbí se vám Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Ohodnoťte nás!"
@@ -711,7 +711,7 @@
         "message": "Další nastavení"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Zobrazit informace o plné verzi AdGuard"
+        "message": "Zobrazit informace o plné verzi Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Upozornit na aktualizace rozšíření"
@@ -735,13 +735,13 @@
         "message": "Chyba při resetování nastavení"
     },
     "options_collect_hit_stats_title": {
-        "message": "Pomoc s vývojem filtrů AdGuard"
+        "message": "Pomoc s vývojem filtrů Premium AdBlock"
     },
     "options_collect_hit_stats_desc": {
         "message": "Odesílat <a>anonymní statistiky používání filtrů reklam<\/a>, které nám je pomohou vylepšit a optimalizovat."
     },
     "options_show_context_menu_title": {
-        "message": "Přidat položku AdGuard do kontextového menu prohlížeče"
+        "message": "Přidat položku Premium AdBlock do kontextového menu prohlížeče"
     },
     "options_use_optimized_filters": {
         "message": "Použít optimalizované filtry"
@@ -798,13 +798,13 @@
         "message": "Odstranit sledovací identifikátory"
     },
     "options_strip_tracking_params_description": {
-        "message": "Odebrat parametry z webových požadavků pomocí AdGuard filtru sledování URL."
+        "message": "Odebrat parametry z webových požadavků pomocí Premium AdBlock filtru sledování URL."
     },
     "options_block_known_trackers_title": {
         "message": "Blokovat slídiče"
     },
     "options_block_known_trackers_description": {
-        "message": "Blokovat slídiče a nástroje pro webovou analýzu pomocí AdGuard filtru ochrany sledování."
+        "message": "Blokovat slídiče a nástroje pro webovou analýzu pomocí Premium AdBlock filtru ochrany sledování."
     },
     "options_third_party_title": {
         "message": "Autodestrukce cookies třetích stran"
@@ -846,7 +846,7 @@
         "message": "Přepínač ochrany"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "O programu"
@@ -873,7 +873,7 @@
         "message": "Odstranit"
     },
     "options_nav_better_than_extension": {
-        "message": "Proč je aplikace AdGuard lepší než rozšíření?"
+        "message": "Proč je aplikace Premium AdBlock lepší než rozšíření?"
     },
     "options_nav_compare": {
         "message": "Porovnat"
@@ -882,7 +882,7 @@
         "message": "Hledat"
     },
     "options_about_title": {
-        "message": "Rozšíření prohlížeče AdGuard"
+        "message": "Rozšíření prohlížeče Premium AdBlock"
     },
     "group_description_adblocking": {
         "message": "Zde nakonfigurujte blokování reklam, abyste mohli jednou provždy zapomenout na otravné bannery, vyskakovací okna, videoreklamy atd."
@@ -900,7 +900,7 @@
         "message": "Chraňte se před škodlivým kódem, krádeží identity a dalšími online hrozbami."
     },
     "group_description_miscellaneous": {
-        "message": "Další nastavení pro ještě lepší konfiguraci Vašeho procházení webu s AdGuardem."
+        "message": "Další nastavení pro ještě lepší konfiguraci Vašeho procházení webu s Premium AdBlockem."
     },
     "group_description_custom": {
         "message": "Vytvořte si vlastní filtry, které doladí filtrování webu podle vašich preferencí."
@@ -1023,13 +1023,13 @@
         "message": "Přístup odepřen"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard zablokoval přístup na tuto stránku"
+        "message": "Premium AdBlock zablokoval přístup na tuto stránku"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blokováno programem AdGuard"
+        "message": "Blokováno programem Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard zabránil načtení této stránky kvůli následujícímu pravidlu filtru"
+        "message": "Premium AdBlock zabránil načtení této stránky kvůli následujícímu pravidlu filtru"
     },
     "blocking_pages_btn_go_back": {
         "message": "Zpět"

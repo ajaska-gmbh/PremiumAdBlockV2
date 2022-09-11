@@ -9,7 +9,7 @@
         "message": "Langgan"
     },
     "name": {
-        "message": "Penghalang Iklan AdGuard"
+        "message": "Penghalang Iklan Premium AdBlock"
     },
     "options_allowlist": {
         "message": "Senarai putih"
@@ -30,7 +30,7 @@
         "message": "Halang iklan di laman ini"
     },
     "popup_open_settings": {
-        "message": "Tetapan AdGuard"
+        "message": "Tetapan Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Halang iklan pada laman web"
@@ -51,19 +51,19 @@
         "message": "Halang elemen..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard tidak dapat dijalankan di domain ini"
+        "message": "Premium AdBlock tidak dapat dijalankan di domain ini"
     },
     "context_disable_protection": {
-        "message": "Henti sebentar perlindungan AdGuard"
+        "message": "Henti sebentar perlindungan Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Mula kembali perlindungan AdGuard"
+        "message": "Mula kembali perlindungan Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Perlindungan AdGuard dihentikan sebentar"
+        "message": "Perlindungan Premium AdBlock dihentikan sebentar"
     },
     "context_open_settings": {
-        "message": "Tetapan AdGuard..."
+        "message": "Tetapan Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Log penyaringan..."
@@ -150,7 +150,7 @@
         "message": "Telah di proses"
     },
     "options_settings": {
-        "message": "Tetapan AdGuard"
+        "message": "Tetapan Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Tetapan Umum"
@@ -198,7 +198,7 @@
         "message": "Tetapkan semula"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "description": {
         "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, YouTube and all other websites."

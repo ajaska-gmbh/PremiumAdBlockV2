@@ -18,10 +18,10 @@
         "message": "Busqueu actualitzacions per als filtres"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard per a iOS"
+        "message": "Premium AdBlock per a iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard per a Android"
+        "message": "Premium AdBlock per a Android"
     },
     "options_filters_filter_version": {
         "message": "versió:"
@@ -33,7 +33,7 @@
         "message": "Desactiva les notificacions"
     },
     "popup_adguard_footer_title": {
-        "message": "Obté AdGuard per al teu mòbil"
+        "message": "Obté Premium AdBlock per al teu mòbil"
     },
     "options_popup_call_to_action": {
         "message": "Introduïu l'URL vàlid o la ruta del fitxer del filtre al camp superior."
@@ -78,7 +78,7 @@
         "message": "Subscriure"
     },
     "name": {
-        "message": "Filtre de publicitat d'AdGuard"
+        "message": "Filtre de publicitat d'Premium AdBlock"
     },
     "background_tab_title": {
         "message": "Pestanya de fons"
@@ -87,7 +87,7 @@
         "message": "Llista de permesos"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard no filtra pàgines web que es troben a la llista blanca."
+        "message": "Premium AdBlock no filtra pàgines web que es troben a la llista blanca."
     },
     "options_allowlist_invert": {
         "message": "Inverteix la llista de permesos"
@@ -177,7 +177,7 @@
         "message": "Comproveu la seguretat del lloc web"
     },
     "popup_open_settings": {
-        "message": "Opcions d'AdGuard"
+        "message": "Opcions d'Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Filtra els anuncis de publicitat en aquesta pàgina web"
@@ -201,19 +201,19 @@
         "message": "Comproveu la seguretat del lloc web..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard no pot funcionar en aquest domini"
+        "message": "Premium AdBlock no pot funcionar en aquest domini"
     },
     "context_disable_protection": {
-        "message": "Atureu la protecció d'AdGuard"
+        "message": "Atureu la protecció d'Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Inicieu la protecció d'AdGuard"
+        "message": "Inicieu la protecció d'Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "La protecció d'AdGuard està aturada"
+        "message": "La protecció d'Premium AdBlock està aturada"
     },
     "context_open_settings": {
-        "message": "Opcions d'AdGuard..."
+        "message": "Opcions d'Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Registre del filtratge..."
@@ -306,7 +306,7 @@
         "message": "Copiat"
     },
     "options_settings": {
-        "message": "Opcions d'AdGuard"
+        "message": "Opcions d'Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Opcions generals"
@@ -345,7 +345,7 @@
         "message": "Pàgina web oficial"
     },
     "options_discuss": {
-        "message": "Parleu sobre AdGuard"
+        "message": "Parleu sobre Premium AdBlock"
     },
     "options_reset_stats_done": {
         "message": "Les estadístiques s'han netejat"
@@ -381,7 +381,7 @@
         "message": "Intenta-ho de nou"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "description": {
         "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, YouTube and all other websites."

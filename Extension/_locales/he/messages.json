@@ -27,10 +27,10 @@
         "message": "סיומת הקובץ חייבת להיות %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard עבור iOS"
+        "message": "Premium AdBlock עבור iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard עבור Android"
+        "message": "Premium AdBlock עבור Android"
     },
     "options_filters_filter_version": {
         "message": "גרסה:"
@@ -45,7 +45,7 @@
         "message": "השבת התראות"
     },
     "popup_adguard_footer_title": {
-        "message": "קבל את AdGuard עבור הנייד שלך"
+        "message": "קבל את Premium AdBlock עבור הנייד שלך"
     },
     "options_popup_call_to_action": {
         "message": "הכנס כתובת תקפה או נתיב קובץ תקף של המסנן לתוך השדה לעיל."
@@ -96,7 +96,7 @@
         "message": "הירשם כמנוי"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "description": {
         "message": "הרחבה ללא תחרות של חסימת פרסומות נגד פרסום וחלונות קופצים. חוסמת פרסומות בפייסבוק, ביוטיוב ובכל האתרים האחרים."
@@ -108,7 +108,7 @@
         "message": "רשימת היתר"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard אינו מסנן אתרים מרשימת ההיתר."
+        "message": "Premium AdBlock אינו מסנן אתרים מרשימת ההיתר."
     },
     "options_allowlist_invert": {
         "message": "הפוך את רשימת ההיתר"
@@ -315,7 +315,7 @@
         "message": "עודכנו"
     },
     "options_popup_version_update_title_text": {
-        "message": "הרחבת AdGuard עודכנה אל גרסה %current_version%"
+        "message": "הרחבת Premium AdBlock עודכנה אל גרסה %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "גרסה זו מכילה בעיקר תיקוני תקלים ושיפורים זעירים"
@@ -327,7 +327,7 @@
         "message": "מה חדש בגרסה זו?"
     },
     "options_popup_version_update_offer": {
-        "message": "האם ידעת שהיכולות של AdGuard אינן מוגבלות אל דפדפן זה?"
+        "message": "האם ידעת שהיכולות של Premium AdBlock אינן מוגבלות אל דפדפן זה?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "למד עוד"
@@ -342,7 +342,7 @@
         "message": "הסר את כל כללי המשתמש עבור דף זה"
     },
     "popup_open_settings": {
-        "message": "הגדרות AdGuard"
+        "message": "הגדרות Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "חסום פרסומות באתר זה"
@@ -372,19 +372,19 @@
         "message": "דווח על סוגייה…"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard אינו יכול לרוץ בתחום זה"
+        "message": "Premium AdBlock אינו יכול לרוץ בתחום זה"
     },
     "context_disable_protection": {
-        "message": "השהה את הגנת AdGuard"
+        "message": "השהה את הגנת Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "המשך את הגנת AdGuard"
+        "message": "המשך את הגנת Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "הגנת AdGuard מושהית"
+        "message": "הגנת Premium AdBlock מושהית"
     },
     "context_open_settings": {
-        "message": "הגדרות AdGuard…"
+        "message": "הגדרות Premium AdBlock…"
     },
     "context_open_log": {
         "message": "יומן סינון…"
@@ -606,7 +606,7 @@
         "message": "עבר שינוי"
     },
     "options_settings": {
-        "message": "הגדרות AdGuard"
+        "message": "הגדרות Premium AdBlock"
     },
     "options_general_settings": {
         "message": "כללי"
@@ -618,7 +618,7 @@
         "message": "היפטר מן <a>קידום עצמי של אתרים ופרסומות מבוססות הקשר<\/a> שמופיעים בתוצאות חיפוש."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "הראה את מספר הפרסומות החסומות על האיקון של הרחבת AdGuard"
+        "message": "הראה את מספר הפרסומות החסומות על האיקון של הרחבת Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "הפעל באופן אוטומטי את המסננים ההולמים ביותר"
@@ -693,16 +693,16 @@
         "message": "הגנה מפני דיוג ונוזקה"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "אפשר את מודול אבטחה גלישה של AdGuard אשר מגלה אתרים זדניים ואתרי דיוג פוטנציאליים ע״י בדיקתם כנגד מסד נתונים מקוון. <a>קרא עוד<\/a>"
+        "message": "אפשר את מודול אבטחה גלישה של Premium AdBlock אשר מגלה אתרים זדניים ואתרי דיוג פוטנציאליים ע״י בדיקתם כנגד מסד נתונים מקוון. <a>קרא עוד<\/a>"
     },
     "options_site": {
         "message": "האתר הרשמי"
     },
     "options_discuss": {
-        "message": "דון על AdGuard"
+        "message": "דון על Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "אתה אוהב את AdGuard?"
+        "message": "אתה אוהב את Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "דרג!"
@@ -711,7 +711,7 @@
         "message": "הגדרות נוספות"
     },
     "options_show_adguard_full_version_title": {
-        "message": "הראה מידע על הגרסה המלאה של AdGuard"
+        "message": "הראה מידע על הגרסה המלאה של Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "יידע לגבי עדכוני הרחבה"
@@ -735,13 +735,13 @@
         "message": "שגיאה בזמן איפוס הגדרות"
     },
     "options_collect_hit_stats_title": {
-        "message": "עזור עם הפיתוח של מסנני AdGuard"
+        "message": "עזור עם הפיתוח של מסנני Premium AdBlock"
     },
     "options_collect_hit_stats_desc": {
         "message": "שלח <a>סטטיסטיקה אלמונית של שימוש במסנני פרסומות<\/a> שתעזור לנו לשפר ולמטב את המסננים."
     },
     "options_show_context_menu_title": {
-        "message": "הוסף את AdGuard אל תפריט ההקשר של הדפדפן"
+        "message": "הוסף את Premium AdBlock אל תפריט ההקשר של הדפדפן"
     },
     "options_use_optimized_filters": {
         "message": "השתמש במסננים ממוטבים"
@@ -798,13 +798,13 @@
         "message": "הסר פרמטרי מעקב"
     },
     "options_strip_tracking_params_description": {
-        "message": "הסר פרמטרים מבקשות רשת עם מסנן מעקב מענים של AdGuard."
+        "message": "הסר פרמטרים מבקשות רשת עם מסנן מעקב מענים של Premium AdBlock."
     },
     "options_block_known_trackers_title": {
         "message": "חסום עוקבנים"
     },
     "options_block_known_trackers_description": {
-        "message": "חסום עוקבנים וכלי אנליטיקת רשת עם מסנן הגנה מפני מעקב של AdGuard."
+        "message": "חסום עוקבנים וכלי אנליטיקת רשת עם מסנן הגנה מפני מעקב של Premium AdBlock."
     },
     "options_third_party_title": {
         "message": "השמדה עצמית של עוגיות צד שלישי"
@@ -846,7 +846,7 @@
         "message": "מתג הגנה"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "אודות"
@@ -873,7 +873,7 @@
         "message": "הסר"
     },
     "options_nav_better_than_extension": {
-        "message": "למה היישום של AdGuard טוב יותר מההרחבה?"
+        "message": "למה היישום של Premium AdBlock טוב יותר מההרחבה?"
     },
     "options_nav_compare": {
         "message": "השווה"
@@ -882,7 +882,7 @@
         "message": "חפש"
     },
     "options_about_title": {
-        "message": "הרחבת דפדפן של AdGuard"
+        "message": "הרחבת דפדפן של Premium AdBlock"
     },
     "group_description_adblocking": {
         "message": "תצר חסימת פרסומות כאן כדי להתמודד עם מודעות מטרידות, חלונות קופצים מטרידים, פרסומות וידאו מטרידות וכולי, פעם אחת ולתמיד."
@@ -900,7 +900,7 @@
         "message": "הגן על עצמך מפני נוזקה, דיוג ואיומים מקוונים אחרים."
     },
     "group_description_miscellaneous": {
-        "message": "עוד הגדרות לתצר את גלישת האינטרנט שלך עם AdGuard אפילו יותר."
+        "message": "עוד הגדרות לתצר את גלישת האינטרנט שלך עם Premium AdBlock אפילו יותר."
     },
     "group_description_custom": {
         "message": "צור מסננים משלך עבור סינון רשת מכוונן על פי העדפתך."
@@ -1023,13 +1023,13 @@
         "message": "גישה נדחתה"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard חסם גישה אל דף זה"
+        "message": "Premium AdBlock חסם גישה אל דף זה"
     },
     "blocking_pages_rule_header_title": {
-        "message": "נחסם ע״י AdGuard"
+        "message": "נחסם ע״י Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard מנע מדף זה להיטען עקב הכלל הבא של מסנן"
+        "message": "Premium AdBlock מנע מדף זה להיטען עקב הכלל הבא של מסנן"
     },
     "blocking_pages_btn_go_back": {
         "message": "חזור"

@@ -27,10 +27,10 @@
         "message": "Extensia fișierului trebuie să fie %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard pentru iOS"
+        "message": "Premium AdBlock pentru iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard pentru Android"
+        "message": "Premium AdBlock pentru Android"
     },
     "options_filters_filter_version": {
         "message": "versiune:"
@@ -45,7 +45,7 @@
         "message": "Oprește notificări"
     },
     "popup_adguard_footer_title": {
-        "message": "Obține AdGuard pentru mobil"
+        "message": "Obține Premium AdBlock pentru mobil"
     },
     "options_popup_call_to_action": {
         "message": "Introduceți un URL valid sau calea către filtru în câmpul de mai jos."
@@ -96,7 +96,7 @@
         "message": "Abonează-te"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "description": {
         "message": "Extensie fără egal de blocare reclame și pop-up-uri. Blochează reclame pe Facebook, YouTube și toate celelalte site-uri."
@@ -108,7 +108,7 @@
         "message": "Listă autorizări"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard nu filtrează site-urile web din Lista de autorizări."
+        "message": "Premium AdBlock nu filtrează site-urile web din Lista de autorizări."
     },
     "options_allowlist_invert": {
         "message": "Listă de autorizări inversată"
@@ -315,7 +315,7 @@
         "message": "s-au actualizat."
     },
     "options_popup_version_update_title_text": {
-        "message": "Extensia AdGuard a fost actualizată la versiunea %current_version%"
+        "message": "Extensia Premium AdBlock a fost actualizată la versiunea %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Această versiune conține corecții de erori și îmbunătățiri minore."
@@ -327,7 +327,7 @@
         "message": "Ce este nou în această versiune?"
     },
     "options_popup_version_update_offer": {
-        "message": "Știați că funcțiile AdGuard nu sunt limitate numai la acest navigator?"
+        "message": "Știați că funcțiile Premium AdBlock nu sunt limitate numai la acest navigator?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "AFLAȚI MAI MULT"
@@ -342,7 +342,7 @@
         "message": "Ștergeți toate regulile de utilizator pentru acest site"
     },
     "popup_open_settings": {
-        "message": "Setări AdGuard"
+        "message": "Setări Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Blocați reclamele pe această pagină web"
@@ -372,19 +372,19 @@
         "message": "Raportați o problemă..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard nu poate rula pe acest domeniu"
+        "message": "Premium AdBlock nu poate rula pe acest domeniu"
     },
     "context_disable_protection": {
-        "message": "Întrerupeți protecția AdGuard"
+        "message": "Întrerupeți protecția Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Reporniți protecția AdGuard"
+        "message": "Reporniți protecția Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Protecția AdGuard este în pauză"
+        "message": "Protecția Premium AdBlock este în pauză"
     },
     "context_open_settings": {
-        "message": "Setări AdGuard..."
+        "message": "Setări Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Jurnal de filtrare..."
@@ -606,7 +606,7 @@
         "message": "Modificat"
     },
     "options_settings": {
-        "message": "Setări AdGuard"
+        "message": "Setări Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Setări Generale"
@@ -618,7 +618,7 @@
         "message": "Elimină <a>reclamele de auto-promovare și de cele bazate pe context de pe site-urilor web,<\/a> care apar în rezultatele căutării"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Indicați numărul de reclame blocate pe iconul extensia AdGuard"
+        "message": "Indicați numărul de reclame blocate pe iconul extensia Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Activează cele mai adecvate filtre în mod automat"
@@ -693,16 +693,16 @@
         "message": "Protecția împotriva phishing-ului și a malware-ului"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Activați modulul AdGuard de Securitate la navigare, care detectează site-urile potențial rău intenționate și de phishing prin compararea acestora cu o bază de date online. <a>Aflați mai multe<\/a>"
+        "message": "Activați modulul Premium AdBlock de Securitate la navigare, care detectează site-urile potențial rău intenționate și de phishing prin compararea acestora cu o bază de date online. <a>Aflați mai multe<\/a>"
     },
     "options_site": {
         "message": "Pagină oficială"
     },
     "options_discuss": {
-        "message": "Discutați AdGuard"
+        "message": "Discutați Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Vă place AdGuard?"
+        "message": "Vă place Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Cotați-ne!"
@@ -711,7 +711,7 @@
         "message": "Setări suplimentare"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Afișați informații despre versiunea completă AdGuard"
+        "message": "Afișați informații despre versiunea completă Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Notifică despre actualizări extensie"
@@ -735,13 +735,13 @@
         "message": "Eroare la resetarea setărilor"
     },
     "options_collect_hit_stats_title": {
-        "message": "Ajutați la dezvoltarea filtrelor AdGuard"
+        "message": "Ajutați la dezvoltarea filtrelor Premium AdBlock"
     },
     "options_collect_hit_stats_desc": {
         "message": "Trimite <a>statistici anonime privind utilizarea filtrelor de reclame<\/a> care ne vor ajuta să le îmbunătățim și să le optimizăm."
     },
     "options_show_context_menu_title": {
-        "message": "Adăugați AdGuard în meniul contextual al browserului"
+        "message": "Adăugați Premium AdBlock în meniul contextual al browserului"
     },
     "options_use_optimized_filters": {
         "message": "Folosiți filtre optimizate"
@@ -798,13 +798,13 @@
         "message": "Eliminați parametrii de urmărire"
     },
     "options_strip_tracking_params_description": {
-        "message": "Eliminați parametrii din solicitările web cu filtrul de urmărire URL AdGuard."
+        "message": "Eliminați parametrii din solicitările web cu filtrul de urmărire URL Premium AdBlock."
     },
     "options_block_known_trackers_title": {
         "message": "Blocați trackerele"
     },
     "options_block_known_trackers_description": {
-        "message": "Blocați trackerele și instrumentele de analiză web cu filtrul AdGuard de protecție contra urmăririi."
+        "message": "Blocați trackerele și instrumentele de analiză web cu filtrul Premium AdBlock de protecție contra urmăririi."
     },
     "options_third_party_title": {
         "message": "Auto-distrugere cookie-uri terțe-părți"
@@ -846,7 +846,7 @@
         "message": "Comutator protecție"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Despre"
@@ -873,7 +873,7 @@
         "message": "Elimină"
     },
     "options_nav_better_than_extension": {
-        "message": "De ce este aplicația AdGuard mai bună decât extensia?"
+        "message": "De ce este aplicația Premium AdBlock mai bună decât extensia?"
     },
     "options_nav_compare": {
         "message": "Comparați"
@@ -882,7 +882,7 @@
         "message": "Caută"
     },
     "options_about_title": {
-        "message": "Extensie de browser AdGuard"
+        "message": "Extensie de browser Premium AdBlock"
     },
     "group_description_adblocking": {
         "message": "Configurați aici blocarea reclamelor pentru a vă ocupa o dată pentru totdeauna de bannerele enervante, ferestrele pop-up, reclamele video și altele asemenea"
@@ -900,7 +900,7 @@
         "message": "Protejați-vă de malware, phishing și alte amenințări online."
     },
     "group_description_miscellaneous": {
-        "message": "Mai multe setări pentru a vă configura și mai mult navigarea pe web cu AdGuard"
+        "message": "Mai multe setări pentru a vă configura și mai mult navigarea pe web cu Premium AdBlock"
     },
     "group_description_custom": {
         "message": "Creați-vă propriile filtre pentru a ajusta filtrarea web după preferințele dumneavoastră"
@@ -1023,13 +1023,13 @@
         "message": "Acces refuzat"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard a blocat accesul la această pagină"
+        "message": "Premium AdBlock a blocat accesul la această pagină"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blocat de AdGuard"
+        "message": "Blocat de Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard a oprit încărcarea acestei pagini datorită următoarei reguli de filtrare"
+        "message": "Premium AdBlock a oprit încărcarea acestei pagini datorită următoarei reguli de filtrare"
     },
     "blocking_pages_btn_go_back": {
         "message": "Înapoi"

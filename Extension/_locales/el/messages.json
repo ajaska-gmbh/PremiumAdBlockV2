@@ -27,10 +27,10 @@
         "message": "Η επέκταση αρχείου θα πρέπει να είναι %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard για iOS"
+        "message": "Premium AdBlock για iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard για Android"
+        "message": "Premium AdBlock για Android"
     },
     "options_filters_filter_version": {
         "message": "έκδοση:"
@@ -45,7 +45,7 @@
         "message": "Απενεργοποίηση ειδοποιήσεων"
     },
     "popup_adguard_footer_title": {
-        "message": "Πάρτε το AdGuard για το κινητό"
+        "message": "Πάρτε το Premium AdBlock για το κινητό"
     },
     "options_popup_call_to_action": {
         "message": "Εισάγετε μια έγκυρη διεύθυνση URL ή τη διαδρομή αρχείου του φίλτρου στο ανωτέρω πεδίο."
@@ -93,7 +93,7 @@
         "message": "Εγγραφή"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "description": {
         "message": "Απαράμιλλη επέκταση adblock έναντι διαφημίσεων και αναδυόμενων παραθύρων. Αποκλείει διαφημίσεις σε Facebook, YouTube και σε όλους τους άλλους ιστότοπους."
@@ -105,7 +105,7 @@
         "message": "Επιτρεπόμενη λίστα"
     },
     "options_allowlist_desc": {
-        "message": "Το AdGuard δεν φιλτράρει ιστότοπους από τη λίστα επιτρεπόμενων."
+        "message": "Το Premium AdBlock δεν φιλτράρει ιστότοπους από τη λίστα επιτρεπόμενων."
     },
     "options_allowlist_invert": {
         "message": "Αντιστροφή της λίστας επιτρεπόμενων"
@@ -303,7 +303,7 @@
         "message": "ενημερώθηκαν."
     },
     "options_popup_version_update_title_text": {
-        "message": "Η επέκταση AdGuard έχει ενημερωθεί στην έκδοση %current_version%"
+        "message": "Η επέκταση Premium AdBlock έχει ενημερωθεί στην έκδοση %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Αυτή η έκδοση περιέχει κυρίως διορθώσεις σφαλμάτων και μικρές βελτιώσεις."
@@ -315,7 +315,7 @@
         "message": "Τι νέο υπάρχει σε αυτή την έκδοση;"
     },
     "options_popup_version_update_offer": {
-        "message": "Γνωρίζατε ότι οι δυνατότητες του AdGuard δεν περιορίζονται σε αυτό το πρόγραμμα περιήγησης;"
+        "message": "Γνωρίζατε ότι οι δυνατότητες του Premium AdBlock δεν περιορίζονται σε αυτό το πρόγραμμα περιήγησης;"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ"
@@ -327,7 +327,7 @@
         "message": "Αναφορά ασφάλειας ιστότοπου"
     },
     "popup_open_settings": {
-        "message": "Ρυθμίσεις AdGuard"
+        "message": "Ρυθμίσεις Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Αποκλεισμός διαφημίσεων στον ιστότοπο"
@@ -357,19 +357,19 @@
         "message": "Υποβολή καταγγελίας για αυτόν τον ιστότοπο..."
     },
     "context_site_filtering_disabled": {
-        "message": "Το AdGuard δεν μπορεί να εκτελεστεί σε αυτόν τον τομέα"
+        "message": "Το Premium AdBlock δεν μπορεί να εκτελεστεί σε αυτόν τον τομέα"
     },
     "context_disable_protection": {
-        "message": "Παύση προστασίας AdGuard"
+        "message": "Παύση προστασίας Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Συνέχιση προστασίας AdGuard"
+        "message": "Συνέχιση προστασίας Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Η προστασία AdGuard έχει τεθεί σε παύση"
+        "message": "Η προστασία Premium AdBlock έχει τεθεί σε παύση"
     },
     "context_open_settings": {
-        "message": "Ρυθμίσεις AdGuard..."
+        "message": "Ρυθμίσεις Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Καταγραφές φιλτραρίσματος..."
@@ -567,7 +567,7 @@
         "message": "Τροποποιήθηκε"
     },
     "options_settings": {
-        "message": "Ρυθμίσεις AdGuard"
+        "message": "Ρυθμίσεις Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Γενικά"
@@ -576,7 +576,7 @@
         "message": "Αποκλεισμός διαφημίσεων αναζήτησης και αυτοπροβολή των ιστοσελίδων"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Υπόδειξη του αριθμού των αποκλεισμένων διαφημίσεων στο εικονίδιο επέκτασης AdGuard"
+        "message": "Υπόδειξη του αριθμού των αποκλεισμένων διαφημίσεων στο εικονίδιο επέκτασης Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Αυτόματη ενεργοποίηση των πιο κατάλληλων φίλτρων"
@@ -645,10 +645,10 @@
         "message": "Επίσημη ιστοσελίδα"
     },
     "options_discuss": {
-        "message": "Συζητήστε για το AdGuard"
+        "message": "Συζητήστε για το Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Σας αρέσει το AdGuard;"
+        "message": "Σας αρέσει το Premium AdBlock;"
     },
     "options_footer_like_us_cta": {
         "message": "Βαθμολογήστε το!"
@@ -657,7 +657,7 @@
         "message": "Επιπρόσθετες ρυθμίσεις"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Εμφάνιση πληροφοριών σχετικά με την πλήρη έκδοση του AdGuard"
+        "message": "Εμφάνιση πληροφοριών σχετικά με την πλήρη έκδοση του Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Ειδοποιήσεις για ενημερώσεις της επέκτασης"
@@ -681,13 +681,13 @@
         "message": "Σφάλμα κατά την επαναφορά των ρυθμίσεων"
     },
     "options_collect_hit_stats_title": {
-        "message": "Βοήθεια στην ανάπτυξη των φίλτρων AdGuard"
+        "message": "Βοήθεια στην ανάπτυξη των φίλτρων Premium AdBlock"
     },
     "options_collect_hit_stats_desc": {
         "message": "Αποστολή <a>ανώνυμα στατιστικά στοιχεία χρήσης των φίλτρων διαφημίσεων<\/a> που θα μας βοηθήσουν να τα βελτιώσουμε και να τα βελτιστοποιήσουμε."
     },
     "options_show_context_menu_title": {
-        "message": "Προσθήκη στοιχείου AdGuard στο μενού περιβάλλοντος του περιηγητή"
+        "message": "Προσθήκη στοιχείου Premium AdBlock στο μενού περιβάλλοντος του περιηγητή"
     },
     "options_use_optimized_filters": {
         "message": "Χρήση βελτιστοποιημένων φίλτρων"
@@ -756,7 +756,7 @@
         "message": "Διακόπτης προστασίας"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Σχετικά με"
@@ -786,7 +786,7 @@
         "message": "Αναζήτηση"
     },
     "options_about_title": {
-        "message": "Επέκταση προγράμματος περιήγησης AdGuard"
+        "message": "Επέκταση προγράμματος περιήγησης Premium AdBlock"
     },
     "fullscreen_user_rules_title": {
         "message": "Κανόνες χρήστη"
@@ -897,13 +897,13 @@
         "message": "Δεν επιτρέπεται η πρόσβαση"
     },
     "blocking_pages_safe_header_title": {
-        "message": "Το AdGuard έχει αποκλείσει την πρόσβαση σε αυτήν τη σελίδα"
+        "message": "Το Premium AdBlock έχει αποκλείσει την πρόσβαση σε αυτήν τη σελίδα"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Αποκλείστηκε από το AdGuard"
+        "message": "Αποκλείστηκε από το Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "Το AdGuard απέτρεψε τη φόρτωση αυτής της σελίδας λόγω του ακόλουθου κανόνα φίλτρου"
+        "message": "Το Premium AdBlock απέτρεψε τη φόρτωση αυτής της σελίδας λόγω του ακόλουθου κανόνα φίλτρου"
     },
     "blocking_pages_btn_go_back": {
         "message": "Επιστροφή"

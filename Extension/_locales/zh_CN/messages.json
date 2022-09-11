@@ -27,10 +27,10 @@
         "message": "文件扩展名应为 %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "Premium AdBlock for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+        "message": "Premium AdBlock for Android"
     },
     "options_filters_filter_version": {
         "message": "版本："
@@ -45,7 +45,7 @@
         "message": "禁用通知"
     },
     "popup_adguard_footer_title": {
-        "message": "为您的移动设备获取 AdGuard"
+        "message": "为您的移动设备获取 Premium AdBlock"
     },
     "options_popup_call_to_action": {
         "message": "输入过滤器的有效 URL 或文件路径到以上字段。"
@@ -96,7 +96,7 @@
         "message": "订阅"
     },
     "name": {
-        "message": "AdGuard 广告拦截器"
+        "message": "Premium AdBlock 广告拦截器"
     },
     "description": {
         "message": "一款无与伦比的广告拦截扩展，用以对抗各式广告与弹窗。可以拦截 Facebook、YouTube 和其它所有网站的广告。"
@@ -108,7 +108,7 @@
         "message": "白名单"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard 不过滤来自白名单的网站。"
+        "message": "Premium AdBlock 不过滤来自白名单的网站。"
     },
     "options_allowlist_invert": {
         "message": "颠倒白名单"
@@ -315,7 +315,7 @@
         "message": "已为最新。"
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard 扩展已更新到版本 %current_version%"
+        "message": "Premium AdBlock 扩展已更新到版本 %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "此版本包含众多的错误修复和小的改进。"
@@ -327,7 +327,7 @@
         "message": "此版本的新特性？"
     },
     "options_popup_version_update_offer": {
-        "message": "您可知道 AdGuard 的能力不限于此浏览器？"
+        "message": "您可知道 Premium AdBlock 的能力不限于此浏览器？"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "了解更多"
@@ -342,7 +342,7 @@
         "message": "移除用于此网页上的所有用户规则"
     },
     "popup_open_settings": {
-        "message": "AdGuard 设置"
+        "message": "Premium AdBlock 设置"
     },
     "popup_block_site_ads_android": {
         "message": "拦截网站上的广告"
@@ -372,19 +372,19 @@
         "message": "报告问题 ..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard 无法运行于此域"
+        "message": "Premium AdBlock 无法运行于此域"
     },
     "context_disable_protection": {
-        "message": "暂停 AdGuard 保护"
+        "message": "暂停 Premium AdBlock 保护"
     },
     "context_enable_protection": {
-        "message": "继续 AdGuard 保护"
+        "message": "继续 Premium AdBlock 保护"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard 保护已暂停"
+        "message": "Premium AdBlock 保护已暂停"
     },
     "context_open_settings": {
-        "message": "AdGuard 设置..."
+        "message": "Premium AdBlock 设置..."
     },
     "context_open_log": {
         "message": "过滤日志..."
@@ -606,7 +606,7 @@
         "message": "已修改"
     },
     "options_settings": {
-        "message": "AdGuard 设置"
+        "message": "Premium AdBlock 设置"
     },
     "options_general_settings": {
         "message": "常规设置"
@@ -618,7 +618,7 @@
         "message": "摆脱搜索结果中<a>基于上下文的广告及网站上的自我推销广告<\/a>。"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "在 AdGuard 扩展图标上显示已拦截的广告数量"
+        "message": "在 Premium AdBlock 扩展图标上显示已拦截的广告数量"
     },
     "options_enable_autodetect_filter": {
         "message": "自动激活最适合的过滤器"
@@ -693,16 +693,16 @@
         "message": "钓鱼和恶意保护"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "启用 AdGuard 的浏览安全模块。本模块与线上数据库进行核对后，可以检测潜在的恶意网站和钓鱼网站。<a>了解更多<\/a>"
+        "message": "启用 Premium AdBlock 的浏览安全模块。本模块与线上数据库进行核对后，可以检测潜在的恶意网站和钓鱼网站。<a>了解更多<\/a>"
     },
     "options_site": {
         "message": "官方网站"
     },
     "options_discuss": {
-        "message": "讨论 AdGuard"
+        "message": "讨论 Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "您喜欢 AdGuard 吗？"
+        "message": "您喜欢 Premium AdBlock 吗？"
     },
     "options_footer_like_us_cta": {
         "message": "给我们评分！"
@@ -711,7 +711,7 @@
         "message": "附加设置"
     },
     "options_show_adguard_full_version_title": {
-        "message": "显示关于 AdGuard 完整版本的信息"
+        "message": "显示关于 Premium AdBlock 完整版本的信息"
     },
     "options_show_app_updated_notification": {
         "message": "通知扩展更新"
@@ -735,13 +735,13 @@
         "message": "重置设置时出错"
     },
     "options_collect_hit_stats_title": {
-        "message": "帮助我们一起开发 AdGuard 过滤器"
+        "message": "帮助我们一起开发 Premium AdBlock 过滤器"
     },
     "options_collect_hit_stats_desc": {
         "message": "发送 <a>匿名的广告过滤器使用统计数据<\/a>，这些数据帮助我们改进并优化它们。"
     },
     "options_show_context_menu_title": {
-        "message": "添加 AdGuard 到浏览器上下文菜单"
+        "message": "添加 Premium AdBlock 到浏览器上下文菜单"
     },
     "options_use_optimized_filters": {
         "message": "使用优化的筛选器"
@@ -798,13 +798,13 @@
         "message": "移除跟踪参数"
     },
     "options_strip_tracking_params_description": {
-        "message": "开启 AdGuard URL 跟踪过滤器移除网络请求的跟踪参数。"
+        "message": "开启 Premium AdBlock URL 跟踪过滤器移除网络请求的跟踪参数。"
     },
     "options_block_known_trackers_title": {
         "message": "拦截跟踪器"
     },
     "options_block_known_trackers_description": {
-        "message": "启用 AdGuard 跟踪保护过滤器拦截跟踪器和网络分析工具"
+        "message": "启用 Premium AdBlock 跟踪保护过滤器拦截跟踪器和网络分析工具"
     },
     "options_third_party_title": {
         "message": "自销毁第三方 cookie"
@@ -846,7 +846,7 @@
         "message": "保护开关"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "关于"
@@ -873,7 +873,7 @@
         "message": "移除"
     },
     "options_nav_better_than_extension": {
-        "message": "为什么 AdGuard 应用程序比扩展更好？"
+        "message": "为什么 Premium AdBlock 应用程序比扩展更好？"
     },
     "options_nav_compare": {
         "message": "两者对比"
@@ -882,7 +882,7 @@
         "message": "搜索"
     },
     "options_about_title": {
-        "message": "AdGuard 浏览器扩展"
+        "message": "Premium AdBlock 浏览器扩展"
     },
     "group_description_adblocking": {
         "message": "在此处配置广告拦截以一劳永逸地处理烦人的横幅、弹出窗口、视频广告等。"
@@ -900,7 +900,7 @@
         "message": "保护自己免受恶意软件、网络钓鱼和其他在线威胁的侵害。"
     },
     "group_description_miscellaneous": {
-        "message": "通过更多的 AdGuard 设置来进一步配置您的网上冲浪体验。"
+        "message": "通过更多的 Premium AdBlock 设置来进一步配置您的网上冲浪体验。"
     },
     "group_description_custom": {
         "message": "创建您自己的过滤器以根据您的喜好微调网络过滤。"
@@ -1023,10 +1023,10 @@
         "message": "拒绝访问"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard 已经阻止了该页面的加载"
+        "message": "Premium AdBlock 已经阻止了该页面的加载"
     },
     "blocking_pages_rule_header_title": {
-        "message": "由 AdGuard 拦截"
+        "message": "由 Premium AdBlock 拦截"
     },
     "blocking_pages_rule_content_title": {
         "message": "根据以下过滤规则， Adguard 已阻止该网页加载"

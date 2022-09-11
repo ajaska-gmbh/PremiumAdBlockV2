@@ -27,10 +27,10 @@
         "message": "Extensão de arquivo deve ser %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard para iOS"
+        "message": "Premium AdBlock para iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard para Android"
+        "message": "Premium AdBlock para Android"
     },
     "options_filters_filter_version": {
         "message": "versão:"
@@ -45,7 +45,7 @@
         "message": "Desativar notificações"
     },
     "popup_adguard_footer_title": {
-        "message": "Obtenha o AdGuard para móvel"
+        "message": "Obtenha o Premium AdBlock para móvel"
     },
     "options_popup_call_to_action": {
         "message": "Digite a URL ou o caminho válido do filtro no campo de texto abaixo. "
@@ -96,7 +96,7 @@
         "message": "Inscrever-se"
     },
     "name": {
-        "message": "Bloqueador de anúncio do AdGuard"
+        "message": "Bloqueador de anúncio do Premium AdBlock"
     },
     "description": {
         "message": "Uma extensão de bloqueio incomparável contra anúncios e pop-ups. Bloqueia os anúncios do Facebook, YouTube e todos outros sites."
@@ -108,7 +108,7 @@
         "message": "Lista de permissões"
     },
     "options_allowlist_desc": {
-        "message": "O AdGuard não irá filtrar os sites da listas de permissões."
+        "message": "O Premium AdBlock não irá filtrar os sites da listas de permissões."
     },
     "options_allowlist_invert": {
         "message": "Inverter a lista de permissões"
@@ -315,7 +315,7 @@
         "message": "foram atualizados."
     },
     "options_popup_version_update_title_text": {
-        "message": "A extensão do AdGuard para navegador foi atualizado para a versão %current_version%"
+        "message": "A extensão do Premium AdBlock para navegador foi atualizado para a versão %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Esta versão contém correções de bugs e pequenas melhorias."
@@ -327,7 +327,7 @@
         "message": "O que há de novo nesta versão?"
     },
     "options_popup_version_update_offer": {
-        "message": "Você sabia que os recursos do AdGuard não estão limitados apenas ao navegador?"
+        "message": "Você sabia que os recursos do Premium AdBlock não estão limitados apenas ao navegador?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "SAIBA MAIS"
@@ -342,7 +342,7 @@
         "message": "Apagar todas as regras do usuário para esta página"
     },
     "popup_open_settings": {
-        "message": "Configurações do AdGuard"
+        "message": "Configurações do Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Bloqueia anúncios no site"
@@ -372,19 +372,19 @@
         "message": "Reportar um problema..."
     },
     "context_site_filtering_disabled": {
-        "message": "O AdGuard não pode ser executado neste domínio"
+        "message": "O Premium AdBlock não pode ser executado neste domínio"
     },
     "context_disable_protection": {
-        "message": "Pausar proteção do AdGuard"
+        "message": "Pausar proteção do Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Retomar proteção do AdGuard"
+        "message": "Retomar proteção do Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Proteção do AdGuard está pausada"
+        "message": "Proteção do Premium AdBlock está pausada"
     },
     "context_open_settings": {
-        "message": "Configurações do AdGuard..."
+        "message": "Configurações do Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Registro de filtragem..."
@@ -606,7 +606,7 @@
         "message": "Modificado"
     },
     "options_settings": {
-        "message": "Configurações do AdGuard"
+        "message": "Configurações do Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Geral"
@@ -618,7 +618,7 @@
         "message": "Livre-se da <a>autopromoção de sites e anúncios baseados em contexto<\/a> que aparecem nos resultados de pesquisa."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Mostrar o número de anúncios bloqueados no ícone na extensão do AdGuard"
+        "message": "Mostrar o número de anúncios bloqueados no ícone na extensão do Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Ativar os filtros mais apropriados automaticamente"
@@ -693,16 +693,16 @@
         "message": "Proteção contra phishing e malware"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Ativar o módulo de segurança da navegação do AdGuard que detecta os sites potencialmente maliciosos e de phishing verificando um banco de dados em linha. <a>Saiba mais<\/a>"
+        "message": "Ativar o módulo de segurança da navegação do Premium AdBlock que detecta os sites potencialmente maliciosos e de phishing verificando um banco de dados em linha. <a>Saiba mais<\/a>"
     },
     "options_site": {
         "message": "Site Oficial"
     },
     "options_discuss": {
-        "message": "Discussão do AdGuard"
+        "message": "Discussão do Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Você gostou do AdGuard?"
+        "message": "Você gostou do Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Avalie!"
@@ -711,7 +711,7 @@
         "message": "Configurações adicionais"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Mostrar informação da versão completa do AdGuard"
+        "message": "Mostrar informação da versão completa do Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Notificar sobre atualizações na extensão"
@@ -735,13 +735,13 @@
         "message": "Erro ao redefinir as configurações"
     },
     "options_collect_hit_stats_title": {
-        "message": "Ajude com o desenvolvimento de filtros do AdGuard"
+        "message": "Ajude com o desenvolvimento de filtros do Premium AdBlock"
     },
     "options_collect_hit_stats_desc": {
         "message": "Enviar <a>estatísticas anônimas de uso de filtros de anúncios<\/a> que nos ajudarão a melhorá-los e otimizá-los."
     },
     "options_show_context_menu_title": {
-        "message": "Adicionar o AdGuard ao menu de contexto do navegador"
+        "message": "Adicionar o Premium AdBlock ao menu de contexto do navegador"
     },
     "options_use_optimized_filters": {
         "message": "Usar filtros otimizados"
@@ -798,13 +798,13 @@
         "message": "Remover parâmetros de rastreamento"
     },
     "options_strip_tracking_params_description": {
-        "message": "Remova parâmetros de solicitações da Web com o filtro contra rastreamento de URL do AdGuard."
+        "message": "Remova parâmetros de solicitações da Web com o filtro contra rastreamento de URL do Premium AdBlock."
     },
     "options_block_known_trackers_title": {
         "message": "Bloquear rastreadores"
     },
     "options_block_known_trackers_description": {
-        "message": "Bloqueie rastreadores e ferramentas de análise da web com o filtro de proteção contra rastreamento do AdGuard."
+        "message": "Bloqueie rastreadores e ferramentas de análise da web com o filtro de proteção contra rastreamento do Premium AdBlock."
     },
     "options_third_party_title": {
         "message": "Destruir automaticamente cookies de terceiros"
@@ -846,7 +846,7 @@
         "message": "Interruptor de proteção"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Sobre"
@@ -873,7 +873,7 @@
         "message": "Remover"
     },
     "options_nav_better_than_extension": {
-        "message": "Porque o aplicativo do AdGuard é melhor que a extensão?"
+        "message": "Porque o aplicativo do Premium AdBlock é melhor que a extensão?"
     },
     "options_nav_compare": {
         "message": "Comparar"
@@ -882,7 +882,7 @@
         "message": "Procurar"
     },
     "options_about_title": {
-        "message": "Extensão do AdGuard para navegador"
+        "message": "Extensão do Premium AdBlock para navegador"
     },
     "group_description_adblocking": {
         "message": "Configure o bloqueio de anúncios aqui para lidar com banners irritantes, pop-ups, anúncios em vídeo e outros, de uma vez por todas."
@@ -900,7 +900,7 @@
         "message": "Proteja-se contra malware, phishing e outras ameaças online."
     },
     "group_description_miscellaneous": {
-        "message": "Mais opções para configurar sua navegação na web com o AdGuard ainda mais."
+        "message": "Mais opções para configurar sua navegação na web com o Premium AdBlock ainda mais."
     },
     "group_description_custom": {
         "message": "Crie seus próprios filtros para um ajuste fino de filtragem da web de acordo com sua preferência."
@@ -1023,13 +1023,13 @@
         "message": "Acesso negado"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard bloqueou o acesso a esta página"
+        "message": "Premium AdBlock bloqueou o acesso a esta página"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Bloqueado pelo AdGuard"
+        "message": "Bloqueado pelo Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "O AdGuard impediu o carregamento dessa página devido à seguinte regra de filtro"
+        "message": "O Premium AdBlock impediu o carregamento dessa página devido à seguinte regra de filtro"
     },
     "blocking_pages_btn_go_back": {
         "message": "Voltar"

@@ -63,7 +63,7 @@
         "message": "Հնարավոր չեղավ ստանալ թարմացում: Խնդրում ենք կրկին փորձել:"
     },
     "popup_open_settings": {
-        "message": "AdGuard-ի կարգավորումներ"
+        "message": "Premium AdBlock-ի կարգավորումներ"
     },
     "popup_block_site_ads_android": {
         "message": "Արգելել գովազդը այս կայքից"
@@ -84,19 +84,19 @@
         "message": "Տարրի արգելափակում..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard-ը չի կարող մեկնարկվել այս տիրույթում"
+        "message": "Premium AdBlock-ը չի կարող մեկնարկվել այս տիրույթում"
     },
     "context_disable_protection": {
-        "message": "Դադարեցնել AdGuard-ի պաշտպանությունը"
+        "message": "Դադարեցնել Premium AdBlock-ի պաշտպանությունը"
     },
     "context_enable_protection": {
-        "message": "Շարունակել AdGuard-ի պաշտպանությունը"
+        "message": "Շարունակել Premium AdBlock-ի պաշտպանությունը"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard-ի պաշտպանությունը դադարեցված է"
+        "message": "Premium AdBlock-ի պաշտպանությունը դադարեցված է"
     },
     "context_open_settings": {
-        "message": "AdGuard-ի կարգավորումներ..."
+        "message": "Premium AdBlock-ի կարգավորումներ..."
     },
     "context_open_log": {
         "message": "Զտիչների մատյան"
@@ -216,7 +216,7 @@
         "message": "Modified"
     },
     "options_settings": {
-        "message": "AdGuard-ի կարգավորումներ"
+        "message": "Premium AdBlock-ի կարգավորումներ"
     },
     "options_general_settings": {
         "message": "Գլխավոր կարգավորումներ"
@@ -318,9 +318,9 @@
         "message": "Փակել"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     }
 }

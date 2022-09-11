@@ -27,10 +27,10 @@
         "message": "Пашырэнне файла павінна быць %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard для iOS"
+        "message": "Premium AdBlock для iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard для Android"
+        "message": "Premium AdBlock для Android"
     },
     "options_filters_filter_version": {
         "message": "версія:"
@@ -45,7 +45,7 @@
         "message": "Адключыць апавяшчэнні"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard для мабільнага"
+        "message": "Premium AdBlock для мабільнага"
     },
     "options_popup_call_to_action": {
         "message": "Увядзіце правільны URL фільтра або шлях да файла фільтра ў поле вышэй."
@@ -96,7 +96,7 @@
         "message": "Падпісаццца"
     },
     "name": {
-        "message": "AdGuard Антыбанар"
+        "message": "Premium AdBlock Антыбанар"
     },
     "description": {
         "message": "Непераўзыдзеная абарона ад рэкламы і ўсплывальных вокнаў. Бракіруе рэкламу на Facebook, YouTube і ўсіх іншых сайтах."
@@ -108,7 +108,7 @@
         "message": "Белы спіс"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard не фільтруе ўэб-сайты з белага спіса."
+        "message": "Premium AdBlock не фільтруе ўэб-сайты з белага спіса."
     },
     "options_allowlist_invert": {
         "message": "Інвертаваць белы спіс"
@@ -315,7 +315,7 @@
         "message": "абноўлены."
     },
     "options_popup_version_update_title_text": {
-        "message": "Пашырэнне AdGuard абноўлена да версіі %current_version%"
+        "message": "Пашырэнне Premium AdBlock абноўлена да версіі %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Гэта версія ўтрымлівае ў асноўным выпраўленні памылак і дробныя паляпшэнні."
@@ -327,7 +327,7 @@
         "message": "Што новага ў гэтай версіі?"
     },
     "options_popup_version_update_offer": {
-        "message": "Вы ведаеце, што AdGuard даступна не толькі для гэтага браўзара?"
+        "message": "Вы ведаеце, што Premium AdBlock даступна не толькі для гэтага браўзара?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ДАДАТКОВАЯ ІНФАРМАЦЫЯ"
@@ -342,7 +342,7 @@
         "message": "Выдаліць усе карыстацкія правілы для гэтай старонкі"
     },
     "popup_open_settings": {
-        "message": "Наладзіць AdGuard"
+        "message": "Наладзіць Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Заблакаваць рэкламу"
@@ -372,19 +372,19 @@
         "message": "Дадаць скаргу на гэты сайт…"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard не працуе на гэтым дамене"
+        "message": "Premium AdBlock не працуе на гэтым дамене"
     },
     "context_disable_protection": {
-        "message": "Прыпыніць абарону AdGuard"
+        "message": "Прыпыніць абарону Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Аднавіць абарону AdGuard"
+        "message": "Аднавіць абарону Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Абарона AdGuard прыпынена"
+        "message": "Абарона Premium AdBlock прыпынена"
     },
     "context_open_settings": {
-        "message": "Наладзіць AdGuard..."
+        "message": "Наладзіць Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Журнал фільтрацыі..."
@@ -606,7 +606,7 @@
         "message": "Зменена"
     },
     "options_settings": {
-        "message": "Налады AdGuard"
+        "message": "Налады Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Агульныя налады"
@@ -618,7 +618,7 @@
         "message": "Пазбудзьцеся <a>самарэкламы сайтаў і кантэкставай рэкламы<\/a>, якая з'яўляецца ў выніках пошуку."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Паказваць колькасць заблакаванай рэкламы на іконцы AdGuard"
+        "message": "Паказваць колькасць заблакаванай рэкламы на іконцы Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Аўтаматычна падключаць найболей прыдатныя фільтры"
@@ -693,16 +693,16 @@
         "message": "Абарона фішынгавых і шкодных сайтаў"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Уключыце модуль бяспекі прагляду AdGuard, які выяўляе патэнцыйна шкоднасныя і фішынгавыя сайты, правяраючы іх з базай дадзеных у Інтэрнэце. <a>Чытаць больш<\/a>"
+        "message": "Уключыце модуль бяспекі прагляду Premium AdBlock, які выяўляе патэнцыйна шкоднасныя і фішынгавыя сайты, правяраючы іх з базай дадзеных у Інтэрнэце. <a>Чытаць больш<\/a>"
     },
     "options_site": {
         "message": "Афіцыйны сайт"
     },
     "options_discuss": {
-        "message": "Абмеркаваць AdGuard"
+        "message": "Абмеркаваць Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Падабаецца AdGuard?"
+        "message": "Падабаецца Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Ацаніце дадатак!"
@@ -711,7 +711,7 @@
         "message": "Рознае"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Паказваць інфармацыю аб поўнай версіі AdGuard"
+        "message": "Паказваць інфармацыю аб поўнай версіі Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Апавяшчаць аб абнаўленні пашырэння"
@@ -741,7 +741,7 @@
         "message": "Адпраўляйце <a>ананімную статыстыку выкарыстання рэкламных фільтраў<\/a>, гэта дапаможа нам палепшыць і аптымізаваць іх."
     },
     "options_show_context_menu_title": {
-        "message": "Дадаць AdGuard у кантэкставае меню браўзара"
+        "message": "Дадаць Premium AdBlock у кантэкставае меню браўзара"
     },
     "options_use_optimized_filters": {
         "message": "Ужыць аптымізаваныя фільтры"
@@ -798,13 +798,13 @@
         "message": "Выдаляць параметры адсочвання"
     },
     "options_strip_tracking_params_description": {
-        "message": "Выдаленне параметраў з вэб-запытаў з дапамогай фільтра адсочвання URL AdGuard."
+        "message": "Выдаленне параметраў з вэб-запытаў з дапамогай фільтра адсочвання URL Premium AdBlock."
     },
     "options_block_known_trackers_title": {
         "message": "Блакаваць вядомыя трэкеры"
     },
     "options_block_known_trackers_description": {
-        "message": "Калі гэта опцыя ўлучана, фільтр абароны ад асочвання AdGuard змагаецца з усімі вядомымі трэкерамі."
+        "message": "Калі гэта опцыя ўлучана, фільтр абароны ад асочвання Premium AdBlock змагаецца з усімі вядомымі трэкерамі."
     },
     "options_third_party_title": {
         "message": "Самазнішчэнне пабочных файлаў cookies"
@@ -846,7 +846,7 @@
         "message": "Пераключэнне абароны"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Пра нас"
@@ -873,7 +873,7 @@
         "message": "Выдаліць"
     },
     "options_nav_better_than_extension": {
-        "message": "Чаму праграма AdGuard лепшая за пашырэнне?"
+        "message": "Чаму праграма Premium AdBlock лепшая за пашырэнне?"
     },
     "options_nav_compare": {
         "message": "Параўнаць"
@@ -882,7 +882,7 @@
         "message": "Пошук"
     },
     "options_about_title": {
-        "message": "Браўзарнае пашырэнне AdGuard"
+        "message": "Браўзарнае пашырэнне Premium AdBlock"
     },
     "group_description_adblocking": {
         "message": "Наладзьце блакаванне рэкламы, каб раз і назаўжды пазбыцца надакучлівых банараў, усплыўных вокнаў, відэарэкламы і іншых раздражняльнікаў."
@@ -900,7 +900,7 @@
         "message": "Абараніце сябе ад шкодных праграм, фішынгу і іншых анлайн-пагроз."
     },
     "group_description_miscellaneous": {
-        "message": "Дадатковыя налады, каб зрабіць ўэб-сёрфінг яшчэ зручнейшым з дапамогай AdGuard."
+        "message": "Дадатковыя налады, каб зрабіць ўэб-сёрфінг яшчэ зручнейшым з дапамогай Premium AdBlock."
     },
     "group_description_custom": {
         "message": "Стварайце свае фільтры, каб яшчэ больш дэталёва наладзіць ўэб-фільтрацыю пад сябе."
@@ -1023,13 +1023,13 @@
         "message": "Доступ заблакаваны"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard заблакаваў доступ да гэтай старонкі"
+        "message": "Premium AdBlock заблакаваў доступ да гэтай старонкі"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Запыт заблакаваны AdGuard"
+        "message": "Запыт заблакаваны Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard перадухіліў загрузку гэтай старонкі ў адпаведнасці з наступным правілам фільтрацыі"
+        "message": "Premium AdBlock перадухіліў загрузку гэтай старонкі ў адпаведнасці з наступным правілам фільтрацыі"
     },
     "blocking_pages_btn_go_back": {
         "message": "Назад"

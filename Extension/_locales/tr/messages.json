@@ -27,10 +27,10 @@
         "message": "Dosya uzantısı %extension% olmalı"
     },
     "popup_adguard_for_ios": {
-        "message": "iOS için AdGuard"
+        "message": "iOS için Premium AdBlock"
     },
     "popup_adguard_for_android": {
-        "message": "Android için AdGuard"
+        "message": "Android için Premium AdBlock"
     },
     "options_filters_filter_version": {
         "message": "sürüm:"
@@ -45,7 +45,7 @@
         "message": "Bildirimleri devre dışı bırak"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard'ı telefonunuza edinin"
+        "message": "Premium AdBlock'ı telefonunuza edinin"
     },
     "options_popup_call_to_action": {
         "message": "Yukarıdaki alana filtrenin URL adresini veya dosya yolunu girin."
@@ -96,7 +96,7 @@
         "message": "Abone ol"
     },
     "name": {
-        "message": "AdGuard Reklam Engelleyici"
+        "message": "Premium AdBlock Reklam Engelleyici"
     },
     "description": {
         "message": "Reklamlara ve açılır pencerelere karşı benzeri olmayan reklam engelleme uzantısı. Facebook, YouTube ve diğer tüm sitelerdeki reklamları engeller."
@@ -108,7 +108,7 @@
         "message": "İzin listesi"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard, izin listesinde olan sitelerdeki reklamları engellemez."
+        "message": "Premium AdBlock, izin listesinde olan sitelerdeki reklamları engellemez."
     },
     "options_allowlist_invert": {
         "message": "İzin listesini ters çevir"
@@ -315,7 +315,7 @@
         "message": "güncellendi."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard uzantısı, %current_version% sürümüne güncellendi"
+        "message": "Premium AdBlock uzantısı, %current_version% sürümüne güncellendi"
     },
     "options_popup_version_update_description_minor": {
         "message": "Bu sürüm çoğunlukla hata düzeltmeleri ve küçük iyileştirmeler içerir."
@@ -327,7 +327,7 @@
         "message": "Bu sürümdeki yenilikler neler?"
     },
     "options_popup_version_update_offer": {
-        "message": "AdGuard'ın yeteneklerinin bu tarayıcı ile sınırlı olmadığını biliyor muydunuz?"
+        "message": "Premium AdBlock'ın yeteneklerinin bu tarayıcı ile sınırlı olmadığını biliyor muydunuz?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "DAHA FAZLA BİLGİ EDİNİN"
@@ -342,7 +342,7 @@
         "message": "Bu sayfa için tüm kullanıcı kurallarını kaldır"
     },
     "popup_open_settings": {
-        "message": "AdGuard ayarları"
+        "message": "Premium AdBlock ayarları"
     },
     "popup_block_site_ads_android": {
         "message": "Bu sitede reklam engelle"
@@ -372,19 +372,19 @@
         "message": "Bir sorun bildir..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard bu alan adında çalışamaz"
+        "message": "Premium AdBlock bu alan adında çalışamaz"
     },
     "context_disable_protection": {
-        "message": "AdGuard korumasını duraklat"
+        "message": "Premium AdBlock korumasını duraklat"
     },
     "context_enable_protection": {
-        "message": "AdGuard korumasını sürdür"
+        "message": "Premium AdBlock korumasını sürdür"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard koruması duraklatıldı"
+        "message": "Premium AdBlock koruması duraklatıldı"
     },
     "context_open_settings": {
-        "message": "AdGuard ayarları..."
+        "message": "Premium AdBlock ayarları..."
     },
     "context_open_log": {
         "message": "Filtreleme günlüğü..."
@@ -606,7 +606,7 @@
         "message": "Değiştirilen"
     },
     "options_settings": {
-        "message": "AdGuard Ayarları"
+        "message": "Premium AdBlock Ayarları"
     },
     "options_general_settings": {
         "message": "Genel"
@@ -618,7 +618,7 @@
         "message": "Arama motoru sonuçlarında görünen <a>sitelerinin öz tanıtımını yapan ve içeriğe dayalı reklamlardan<\/a> kurtulun."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "AdGuard uzantı simgesinde engellenen reklamların sayısını göster"
+        "message": "Premium AdBlock uzantı simgesinde engellenen reklamların sayısını göster"
     },
     "options_enable_autodetect_filter": {
         "message": "En uygun filtreleri otomatik olarak etkinleştir"
@@ -693,16 +693,16 @@
         "message": "Kimlik avı ve kötü amaçlı yazılım koruması"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Potansiyel olarak kötü amaçlı ve kimlik avı sitelerini çevrimiçi bir veritabanına karşı kontrol ederek algılayan AdGuard Tarama Güvenliği modülünü etkinleştirin. <a>Devamını okuyun<\/a>"
+        "message": "Potansiyel olarak kötü amaçlı ve kimlik avı sitelerini çevrimiçi bir veritabanına karşı kontrol ederek algılayan Premium AdBlock Tarama Güvenliği modülünü etkinleştirin. <a>Devamını okuyun<\/a>"
     },
     "options_site": {
         "message": "Resmi Site"
     },
     "options_discuss": {
-        "message": "AdGuard'ı Tartışın"
+        "message": "Premium AdBlock'ı Tartışın"
     },
     "options_do_you_like_question": {
-        "message": "AdGuard'ı beğendiniz mi?"
+        "message": "Premium AdBlock'ı beğendiniz mi?"
     },
     "options_footer_like_us_cta": {
         "message": "Değerlendirin!"
@@ -711,7 +711,7 @@
         "message": "Ek ayarlar"
     },
     "options_show_adguard_full_version_title": {
-        "message": "AdGuard'ın tam sürümüyle ilgili bilgileri göster"
+        "message": "Premium AdBlock'ın tam sürümüyle ilgili bilgileri göster"
     },
     "options_show_app_updated_notification": {
         "message": "Uzantı güncellemelerini bana bildir"
@@ -735,13 +735,13 @@
         "message": "Ayarlar sıfırlanırken hata oluştu"
     },
     "options_collect_hit_stats_title": {
-        "message": "AdGuard filtrelerinin geliştirilmesine yardımcı ol"
+        "message": "Premium AdBlock filtrelerinin geliştirilmesine yardımcı ol"
     },
     "options_collect_hit_stats_desc": {
         "message": "Geliştirmemize ve iyileştirmemize yardımcı olacak <a>reklam filtrelerinin kullanımına ilişkin anonim istatistikler<\/a> gönderin."
     },
     "options_show_context_menu_title": {
-        "message": "Tarayıcının sağ tık menüsüne AdGuard öğesini ekle"
+        "message": "Tarayıcının sağ tık menüsüne Premium AdBlock öğesini ekle"
     },
     "options_use_optimized_filters": {
         "message": "İyileştirilmiş filtreleri kullan"
@@ -798,13 +798,13 @@
         "message": "İzleme parametrelerini kaldır"
     },
     "options_strip_tracking_params_description": {
-        "message": "AdGuard URL İzleme filtresiyle parametreleri web isteklerinden kaldırın."
+        "message": "Premium AdBlock URL İzleme filtresiyle parametreleri web isteklerinden kaldırın."
     },
     "options_block_known_trackers_title": {
         "message": "İzleyicileri engelle"
     },
     "options_block_known_trackers_description": {
-        "message": "AdGuard İzleme Koruması filtresiyle izleyicileri ve web analizi araçlarını engelleyin."
+        "message": "Premium AdBlock İzleme Koruması filtresiyle izleyicileri ve web analizi araçlarını engelleyin."
     },
     "options_third_party_title": {
         "message": "Kendini yok eden üçüncü taraf çerezler"
@@ -846,7 +846,7 @@
         "message": "Koruma düğmesi"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Hakkında"
@@ -873,7 +873,7 @@
         "message": "Kaldır"
     },
     "options_nav_better_than_extension": {
-        "message": "AdGuard uygulaması neden uzantıdan daha iyidir?"
+        "message": "Premium AdBlock uygulaması neden uzantıdan daha iyidir?"
     },
     "options_nav_compare": {
         "message": "Karşılaştır"
@@ -882,7 +882,7 @@
         "message": "Ara"
     },
     "options_about_title": {
-        "message": "AdGuard Tarayıcı uzantısı"
+        "message": "Premium AdBlock Tarayıcı uzantısı"
     },
     "group_description_adblocking": {
         "message": "Rahatsız edici afişler, açılır pencereler, video reklamları ve benzeri şeylerle tek seferde hepsiyle başa çıkmak için reklam engellemeyi yapılandırın."
@@ -900,7 +900,7 @@
         "message": "Kötü amaçlı yazılımlar, kimlik avı ve diğer çevrimiçi tehditlere karşı kendinizi koruyun."
     },
     "group_description_miscellaneous": {
-        "message": "AdGuard ile internette gezinmenizi ayrıntılı yapılandırmak için daha fazla ayar."
+        "message": "Premium AdBlock ile internette gezinmenizi ayrıntılı yapılandırmak için daha fazla ayar."
     },
     "group_description_custom": {
         "message": "İnternet filtrelemesini tercihinize göre ayarlamak için kendi filtrelerinizi oluşturun."
@@ -1023,13 +1023,13 @@
         "message": "Erişim reddedildi"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard bu sayfaya erişimi engelledi"
+        "message": "Premium AdBlock bu sayfaya erişimi engelledi"
     },
     "blocking_pages_rule_header_title": {
-        "message": "AdGuard tarafından engellendi"
+        "message": "Premium AdBlock tarafından engellendi"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard, aşağıdaki filtre kuralı nedeniyle bu sayfanın yüklenmesini engelledi"
+        "message": "Premium AdBlock, aşağıdaki filtre kuralı nedeniyle bu sayfanın yüklenmesini engelledi"
     },
     "blocking_pages_btn_go_back": {
         "message": "Geri dön"

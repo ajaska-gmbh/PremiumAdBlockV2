@@ -27,10 +27,10 @@
         "message": "該副檔名必須為 %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "Premium AdBlock for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+        "message": "Premium AdBlock for Android"
     },
     "options_filters_filter_version": {
         "message": "版本："
@@ -45,7 +45,7 @@
         "message": "禁用通知"
     },
     "popup_adguard_footer_title": {
-        "message": "為您的行動裝置取得 AdGuard"
+        "message": "為您的行動裝置取得 Premium AdBlock"
     },
     "options_popup_call_to_action": {
         "message": "輸入該過濾器之有效的網址或檔案路徑到上面的欄位裡。"
@@ -96,7 +96,7 @@
         "message": "訂閱"
     },
     "name": {
-        "message": "AdGuard 廣告封鎖器"
+        "message": "Premium AdBlock 廣告封鎖器"
     },
     "description": {
         "message": "防備廣告和彈出式視窗之無與倫比的廣告封鎖擴充功能。封鎖於 Facebook、YouTube 和所有其它的網站上之廣告。"
@@ -108,7 +108,7 @@
         "message": "允許清單"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard 不過濾來自允許清單中的網站。"
+        "message": "Premium AdBlock 不過濾來自允許清單中的網站。"
     },
     "options_allowlist_invert": {
         "message": "反向允許清單"
@@ -315,7 +315,7 @@
         "message": "已被更新。"
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard 擴充功能已被更新至版本 %current_version%"
+        "message": "Premium AdBlock 擴充功能已被更新至版本 %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "此版本主要地包含程式錯誤修正和小改進。"
@@ -327,7 +327,7 @@
         "message": "在此版本中有什麼新事物嗎？"
     },
     "options_popup_version_update_offer": {
-        "message": "您知道 AdGuard 功能不被限於此瀏覽器嗎？"
+        "message": "您知道 Premium AdBlock 功能不被限於此瀏覽器嗎？"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "了解更多"
@@ -342,7 +342,7 @@
         "message": "移除關於此頁面之所有的使用者規則"
     },
     "popup_open_settings": {
-        "message": "AdGuard 設定"
+        "message": "Premium AdBlock 設定"
     },
     "popup_block_site_ads_android": {
         "message": "封鎖於該網站上之廣告"
@@ -372,19 +372,19 @@
         "message": "報告問題…"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard 無法對此網域執行"
+        "message": "Premium AdBlock 無法對此網域執行"
     },
     "context_disable_protection": {
-        "message": "暫停 AdGuard 防護"
+        "message": "暫停 Premium AdBlock 防護"
     },
     "context_enable_protection": {
-        "message": "恢復 AdGuard 防護"
+        "message": "恢復 Premium AdBlock 防護"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard 防護被暫停"
+        "message": "Premium AdBlock 防護被暫停"
     },
     "context_open_settings": {
-        "message": "AdGuard 設定…"
+        "message": "Premium AdBlock 設定…"
     },
     "context_open_log": {
         "message": "過濾記錄…"
@@ -606,7 +606,7 @@
         "message": "已修飾的"
     },
     "options_settings": {
-        "message": "AdGuard 設定"
+        "message": "Premium AdBlock 設定"
     },
     "options_general_settings": {
         "message": "一般的"
@@ -618,7 +618,7 @@
         "message": "擺脫出現在搜尋結果中的<a>網站的自我推銷和基於情境的廣告<\/a>。"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "於 AdGuard 擴充功能圖示上顯示已封鎖的廣告之數量"
+        "message": "於 Premium AdBlock 擴充功能圖示上顯示已封鎖的廣告之數量"
     },
     "options_enable_autodetect_filter": {
         "message": "自動地啟動最合適的過濾器"
@@ -693,16 +693,16 @@
         "message": "網路釣魚和惡意軟體防護"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "透過對照線上資料庫來檢查潛在地惡意的和網路釣魚的網站，啟用偵測它們之 AdGuard 瀏覽安全模組。<a>閱讀更多<\/a>"
+        "message": "透過對照線上資料庫來檢查潛在地惡意的和網路釣魚的網站，啟用偵測它們之 Premium AdBlock 瀏覽安全模組。<a>閱讀更多<\/a>"
     },
     "options_site": {
         "message": "官方的網站"
     },
     "options_discuss": {
-        "message": "討論 AdGuard"
+        "message": "討論 Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "您喜歡 AdGuard 嗎？"
+        "message": "您喜歡 Premium AdBlock 嗎？"
     },
     "options_footer_like_us_cta": {
         "message": "對它評分！"
@@ -711,7 +711,7 @@
         "message": "額外的設定"
     },
     "options_show_adguard_full_version_title": {
-        "message": "顯示關於 AdGuard 完整的版本之資訊"
+        "message": "顯示關於 Premium AdBlock 完整的版本之資訊"
     },
     "options_show_app_updated_notification": {
         "message": "通知有關擴充功能更新"
@@ -735,13 +735,13 @@
         "message": "當重置設定時出錯"
     },
     "options_collect_hit_stats_title": {
-        "message": "幫助 AdGuard 過濾器之開發"
+        "message": "幫助 Premium AdBlock 過濾器之開發"
     },
     "options_collect_hit_stats_desc": {
         "message": "傳送<a>廣告過濾器使用之匿名的統計資料<\/a>，其將幫助我們改善和最佳化它們。"
     },
     "options_show_context_menu_title": {
-        "message": "新增 AdGuard 項目至瀏覽器之內容功能表"
+        "message": "新增 Premium AdBlock 項目至瀏覽器之內容功能表"
     },
     "options_use_optimized_filters": {
         "message": "使用已最佳化的過濾器"
@@ -798,13 +798,13 @@
         "message": "移除追蹤參數"
     },
     "options_strip_tracking_params_description": {
-        "message": "用 AdGuard 網址追蹤過濾器從網路請求中移除參數。"
+        "message": "用 Premium AdBlock 網址追蹤過濾器從網路請求中移除參數。"
     },
     "options_block_known_trackers_title": {
         "message": "封鎖追蹤器"
     },
     "options_block_known_trackers_description": {
-        "message": "用 AdGuard 追蹤防護過濾器來封鎖追蹤器和網路分析工具。"
+        "message": "用 Premium AdBlock 追蹤防護過濾器來封鎖追蹤器和網路分析工具。"
     },
     "options_third_party_title": {
         "message": "第三方的 cookies 之自毀"
@@ -846,7 +846,7 @@
         "message": "防護開關"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "關於"
@@ -873,7 +873,7 @@
         "message": "移除"
     },
     "options_nav_better_than_extension": {
-        "message": "為什麼 AdGuard 程式比擴充功能更好？"
+        "message": "為什麼 Premium AdBlock 程式比擴充功能更好？"
     },
     "options_nav_compare": {
         "message": "比較"
@@ -882,7 +882,7 @@
         "message": "搜尋"
     },
     "options_about_title": {
-        "message": "AdGuard 瀏覽器擴充功能"
+        "message": "Premium AdBlock 瀏覽器擴充功能"
     },
     "group_description_adblocking": {
         "message": "於此配置廣告封鎖以徹底地處理惱人的橫幅、彈出式視窗、視訊廣告和諸如此類。"
@@ -900,7 +900,7 @@
         "message": "保護您自己免於惡意軟體、網路釣魚和其它的線上威脅。"
     },
     "group_description_miscellaneous": {
-        "message": "更多關於甚至進一步地用 AdGuard 配置您的網路瀏覽之設定。"
+        "message": "更多關於甚至進一步地用 Premium AdBlock 配置您的網路瀏覽之設定。"
     },
     "group_description_custom": {
         "message": "創建您自己的過濾器以微調網路過濾成您的偏好。"
@@ -1023,13 +1023,13 @@
         "message": "拒絕存取"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard 已封鎖至此頁面之存取"
+        "message": "Premium AdBlock 已封鎖至此頁面之存取"
     },
     "blocking_pages_rule_header_title": {
-        "message": "被 AdGuard 封鎖"
+        "message": "被 Premium AdBlock 封鎖"
     },
     "blocking_pages_rule_content_title": {
-        "message": "由於下面的過濾器規則，AdGuard 已防止此頁面載入"
+        "message": "由於下面的過濾器規則，Premium AdBlock 已防止此頁面載入"
     },
     "blocking_pages_btn_go_back": {
         "message": "返回"

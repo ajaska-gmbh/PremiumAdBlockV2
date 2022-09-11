@@ -24,10 +24,10 @@
         "message": "پسوند فایل باید %extension% باشد"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "Premium AdBlock for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+        "message": "Premium AdBlock for Android"
     },
     "options_filters_filter_version": {
         "message": "نسخه:"
@@ -39,7 +39,7 @@
         "message": "غيرفعالسازي اطلاع رسانی ها"
     },
     "popup_adguard_footer_title": {
-        "message": "دریافت AdGuard برای موبایل"
+        "message": "دریافت Premium AdBlock برای موبایل"
     },
     "options_popup_call_to_action": {
         "message": "آدرس یا مسیر فایل فیلتر معتبر در کادر بالا وارد کنید."
@@ -87,7 +87,7 @@
         "message": "اشتراک"
     },
     "name": {
-        "message": "مسدودساز تبلیغ AdGuard"
+        "message": "مسدودساز تبلیغ Premium AdBlock"
     },
     "description": {
         "message": "افزونه مسدودساز تبلیغ بی نظیر در برابر تبلیغات و پاپ آپ ها.مسدودسازی تبلیغات در فیسبوک،یوتوب و سایر وبسایت ها."
@@ -99,7 +99,7 @@
         "message": "لیست سفید"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard وبسایت های لیست سفید را فیلتر نمی کند."
+        "message": "Premium AdBlock وبسایت های لیست سفید را فیلتر نمی کند."
     },
     "options_allowlist_invert": {
         "message": "معکوس کردن لیست سفید"
@@ -291,7 +291,7 @@
         "message": "به روز شد."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard extension به نسخه %current_version% بروز شده است"
+        "message": "Premium AdBlock extension به نسخه %current_version% بروز شده است"
     },
     "options_popup_version_update_description_minor": {
         "message": "این نسخه بیشتر حاوی حل مشکلات و بهبودی های کوچک می باشد."
@@ -303,7 +303,7 @@
         "message": "چه چیزی در این نسخه جدید است؟"
     },
     "options_popup_version_update_offer": {
-        "message": "آیا می دانستید پشتیبانی AdGuard فقط به این مرورگر محدود نمی شود؟"
+        "message": "آیا می دانستید پشتیبانی Premium AdBlock فقط به این مرورگر محدود نمی شود؟"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "بیشتر بدانید"
@@ -315,7 +315,7 @@
         "message": "گزارش امنیتی وبسایت"
     },
     "popup_open_settings": {
-        "message": "تنظیمات AdGuard"
+        "message": "تنظیمات Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "مسدودسازی تبلیغات در وبسایت"
@@ -345,19 +345,19 @@
         "message": "گزارش یک مشکل..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard نمیتواند در این دامنه اِجرا شود"
+        "message": "Premium AdBlock نمیتواند در این دامنه اِجرا شود"
     },
     "context_disable_protection": {
-        "message": "وقفه حفاظت AdGuard"
+        "message": "وقفه حفاظت Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "ادامه حفاظت AdGuard"
+        "message": "ادامه حفاظت Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "حفاظت AdGuard متوقف شده است"
+        "message": "حفاظت Premium AdBlock متوقف شده است"
     },
     "context_open_settings": {
-        "message": "تنظیمات AdGuard..."
+        "message": "تنظیمات Premium AdBlock..."
     },
     "context_open_log": {
         "message": "وقایع فیلترینگ..."
@@ -507,13 +507,13 @@
         "message": "ویرایش شده"
     },
     "options_settings": {
-        "message": "تنظیمات AdGuard"
+        "message": "تنظیمات Premium AdBlock"
     },
     "options_general_settings": {
         "message": "تنظیمات عمومی"
     },
     "options_show_blocked_ads_count_title": {
-        "message": "تعداد تبلیغات مسدود شده را در آیکون افزونه AdGuard نشان می دهد"
+        "message": "تعداد تبلیغات مسدود شده را در آیکون افزونه Premium AdBlock نشان می دهد"
     },
     "options_enable_autodetect_filter": {
         "message": "فعالسازی خودکار بیشتر فیلترهای مناسب"
@@ -561,16 +561,16 @@
         "message": "وبسایت رسمی"
     },
     "options_discuss": {
-        "message": "گفتگو درباره AdGuard"
+        "message": "گفتگو درباره Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "آیا AdGuard را دوست دارید؟"
+        "message": "آیا Premium AdBlock را دوست دارید؟"
     },
     "options_footer_like_us_cta": {
         "message": "امتیاز بدهید!"
     },
     "options_show_adguard_full_version_title": {
-        "message": "نمایش اطلاعات در نسخه کامل AdGuard"
+        "message": "نمایش اطلاعات در نسخه کامل Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "درباره بروز رسانی افزونه اطلاع رسانی کن"
@@ -585,7 +585,7 @@
         "message": "ریست تنظیمات"
     },
     "options_show_context_menu_title": {
-        "message": "افزودن AdGuard به منوی زمینۀ مرورگر"
+        "message": "افزودن Premium AdBlock به منوی زمینۀ مرورگر"
     },
     "options_use_optimized_filters": {
         "message": "از فیلترهای بهینه شده استفاده کن"
@@ -651,7 +651,7 @@
         "message": "تعویض حفاظت"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "درباره"
@@ -711,13 +711,13 @@
         "message": "دسترسی رد شد"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard دسترسی به این صفحه را مسدود کرده است"
+        "message": "Premium AdBlock دسترسی به این صفحه را مسدود کرده است"
     },
     "blocking_pages_rule_header_title": {
-        "message": "با AdGuard مسدود شده است"
+        "message": "با Premium AdBlock مسدود شده است"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard از دسترسی به این صفحه به علت دستور فیلتر زیر جلوگیری کرد"
+        "message": "Premium AdBlock از دسترسی به این صفحه به علت دستور فیلتر زیر جلوگیری کرد"
     },
     "blocking_pages_btn_go_back": {
         "message": "برگرد"

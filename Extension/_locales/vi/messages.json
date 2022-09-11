@@ -27,10 +27,10 @@
         "message": "Phần mở rộng tệp phải là %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard dành cho IOS"
+        "message": "Premium AdBlock dành cho IOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard dành cho Android"
+        "message": "Premium AdBlock dành cho Android"
     },
     "options_filters_filter_version": {
         "message": "phiên bản:"
@@ -45,7 +45,7 @@
         "message": "Tắt thông báo"
     },
     "popup_adguard_footer_title": {
-        "message": "Tải AdGuard cho điện thoại bạn"
+        "message": "Tải Premium AdBlock cho điện thoại bạn"
     },
     "options_popup_call_to_action": {
         "message": "Nhập URL hợp lệ hoặc đường dẫn đến tệp chứa bộ lọc lên trên này."
@@ -96,7 +96,7 @@
         "message": "Đăng kí"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "description": {
         "message": "Ứng dụng ngăn chặn tuyệt đối quảng cáo và cửa sổ bật lên. Loại bỏ quảng cáo trên Facebook, Youtube và tất cả các trang web khác."
@@ -108,7 +108,7 @@
         "message": "Danh sách cho phép"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard không lọc các trang trong Danh sách cho phép."
+        "message": "Premium AdBlock không lọc các trang trong Danh sách cho phép."
     },
     "options_allowlist_invert": {
         "message": "Đảo ngược danh sách cho phép"
@@ -315,7 +315,7 @@
         "message": "đã được cập nhật"
     },
     "options_popup_version_update_title_text": {
-        "message": "Tiện ích mở rộng AdGuard đã được cập nhật lên phiên bản %current_version%"
+        "message": "Tiện ích mở rộng Premium AdBlock đã được cập nhật lên phiên bản %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Phiên bản này chủ yếu bao gồm sửa lỗi và các cải tiến nhỏ."
@@ -327,7 +327,7 @@
         "message": "Phiên bản này có gì mới?"
     },
     "options_popup_version_update_offer": {
-        "message": "Bạn có biết rằng các khả năng của AdGuard không bị giới hạn trong trình duyệt này không?"
+        "message": "Bạn có biết rằng các khả năng của Premium AdBlock không bị giới hạn trong trình duyệt này không?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "TÌM HIỂU THÊM"
@@ -342,7 +342,7 @@
         "message": "Đặt lại tất cả Quy tắc của người dùng cho trang này"
     },
     "popup_open_settings": {
-        "message": "Cài đặt AdGuard"
+        "message": "Cài đặt Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Chặn quảng cáo trên website này"
@@ -372,19 +372,19 @@
         "message": "Báo lỗi..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard không thể hoạt động trên tên miền này"
+        "message": "Premium AdBlock không thể hoạt động trên tên miền này"
     },
     "context_disable_protection": {
-        "message": "Tạm dừng bảo vệ của AdGuard"
+        "message": "Tạm dừng bảo vệ của Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Tiếp tục bảo vệ của AdGuard"
+        "message": "Tiếp tục bảo vệ của Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Đã tạm dừng bảo vệ của AdGuard"
+        "message": "Đã tạm dừng bảo vệ của Premium AdBlock"
     },
     "context_open_settings": {
-        "message": "Cài đặt AdGuard..."
+        "message": "Cài đặt Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Nhật ký lọc..."
@@ -591,7 +591,7 @@
         "message": "Đã sửa đổi"
     },
     "options_settings": {
-        "message": "Cài đặt AdGuard"
+        "message": "Cài đặt Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Cài đặt Tổng quát"
@@ -603,7 +603,7 @@
         "message": "Loại bỏ <a>tự quảng cáo website và quảng cáo theo ngữ cảnh <\/a>xuất hiện trong kết quả tìm kiếm."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Hiển thị số quảng cáo đã bị chặn trên biểu tượng tiện ích mở rộng AdGuard"
+        "message": "Hiển thị số quảng cáo đã bị chặn trên biểu tượng tiện ích mở rộng Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Tự động kích hoạt những bộ lọc phù hợp nhất"
@@ -678,16 +678,16 @@
         "message": "Bảo vệ chống lừa đảo và phần mềm độc hại"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Bật mô-đun Bảo mật duyệt web của AdGuard để phát hiện các trang web có khả năng độc hại và lừa đảo bằng cách kiểm tra chúng với cơ sở dữ liệu trực tuyến. <a>Đọc thêm<\/a>"
+        "message": "Bật mô-đun Bảo mật duyệt web của Premium AdBlock để phát hiện các trang web có khả năng độc hại và lừa đảo bằng cách kiểm tra chúng với cơ sở dữ liệu trực tuyến. <a>Đọc thêm<\/a>"
     },
     "options_site": {
         "message": "Website chính thức"
     },
     "options_discuss": {
-        "message": "Thảo luận AdGuard"
+        "message": "Thảo luận Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Bạn có thích AdGuard?"
+        "message": "Bạn có thích Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Gửi đánh giá!"
@@ -696,7 +696,7 @@
         "message": "Cài đặt thêm"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Hiện thông tin trên phiên bản AdGuard đầy đủ"
+        "message": "Hiện thông tin trên phiên bản Premium AdBlock đầy đủ"
     },
     "options_show_app_updated_notification": {
         "message": "Thông báo về các bản cập nhật tiện ích mở rộng"
@@ -726,7 +726,7 @@
         "message": "Gửi <a>các thống kê ẩn danh về việc sử dụng bộ lọc quảng cáo<\/a> mà sẽ giúp chúng tôi cải thiện và tối ưu hoá chúng."
     },
     "options_show_context_menu_title": {
-        "message": "Thêm AdGuard vào danh mục tác vụ của trình duyệt"
+        "message": "Thêm Premium AdBlock vào danh mục tác vụ của trình duyệt"
     },
     "options_use_optimized_filters": {
         "message": "Sử dụng tối ưu hoá cho bộ lọc"
@@ -822,7 +822,7 @@
         "message": "Công tắc bảo vệ"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Giới thiệu"
@@ -852,7 +852,7 @@
         "message": "Tìm kiếm"
     },
     "options_about_title": {
-        "message": "Tiện ích mở rộng AdGuard cho trình duyệt"
+        "message": "Tiện ích mở rộng Premium AdBlock cho trình duyệt"
     },
     "group_description_adblocking": {
         "message": "Cấu hình chặn quảng cáo tại đây để giải quyết các ảnh bìa phiền phức, pop-ups, quảng cáo video và tương tự, một lần cho tất cả."
@@ -867,7 +867,7 @@
         "message": "Xoá các cửa sổ pop-up và các thông báo phiền phức khác như các thông báo cookies."
     },
     "group_description_miscellaneous": {
-        "message": "Nhiều cài đặt nhiều hơn để cấu hình lướt web với AdGuard."
+        "message": "Nhiều cài đặt nhiều hơn để cấu hình lướt web với Premium AdBlock."
     },
     "group_description_custom": {
         "message": "Tạo bộ lọc của riêng bạn để tinh chỉnh bộ lọc web theo sở thích của bạn."
@@ -990,10 +990,10 @@
         "message": "Truy cập bị từ chối"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard đã chặn truy cập vào trang này"
+        "message": "Premium AdBlock đã chặn truy cập vào trang này"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Bị chặn bởi AdGuard"
+        "message": "Bị chặn bởi Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
         "message": "Adguard đã ngăn trang này tải do tuân theo quy tắc bộ lọc sau"

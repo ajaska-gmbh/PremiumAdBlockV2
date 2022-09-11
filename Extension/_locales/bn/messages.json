@@ -1,9 +1,9 @@
 {
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "description": {
         "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, Youtube and all other websites."

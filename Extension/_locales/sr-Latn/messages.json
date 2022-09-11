@@ -27,10 +27,10 @@
         "message": "Oznaka datoteke mora biti %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard za iOS"
+        "message": "Premium AdBlock za iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard za Android"
+        "message": "Premium AdBlock za Android"
     },
     "options_filters_filter_version": {
         "message": "verzija:"
@@ -45,7 +45,7 @@
         "message": "Isključi obaveštenja"
     },
     "popup_adguard_footer_title": {
-        "message": "Nabavi AdGuard za tvoj mobilni"
+        "message": "Nabavi Premium AdBlock za tvoj mobilni"
     },
     "options_popup_call_to_action": {
         "message": "Unesi validan URL ili putanju do fajla filtera u polje iznad."
@@ -96,7 +96,7 @@
         "message": "Pretplati se"
     },
     "name": {
-        "message": "AdGuard blokator reklama"
+        "message": "Premium AdBlock blokator reklama"
     },
     "description": {
         "message": "Neuporedivo proširenje protiv reklama i iskačućih prozora. Blokira reklame na Facebook, YouTube i svim drugim veb lokacijama."
@@ -108,7 +108,7 @@
         "message": "Lista dozvoljenih"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard ne filtrira sajtove sa dozvoljene liste."
+        "message": "Premium AdBlock ne filtrira sajtove sa dozvoljene liste."
     },
     "options_allowlist_invert": {
         "message": "Okreni listu dozvoljenih"
@@ -315,7 +315,7 @@
         "message": "je ažurirano."
     },
     "options_popup_version_update_title_text": {
-        "message": "AdGuard je ažuriran na verziju %current_version%"
+        "message": "Premium AdBlock je ažuriran na verziju %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ova verzija uglavnom sadrži ispravljanje grešaka i mala unapređenja."
@@ -327,7 +327,7 @@
         "message": "Šta je novo u ovoj verziji?"
     },
     "options_popup_version_update_offer": {
-        "message": "Jeste li znali da mogućnosti AdGuard-a nisu ograničene samo na ovaj preglednik?"
+        "message": "Jeste li znali da mogućnosti Premium AdBlock-a nisu ograničene samo na ovaj preglednik?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "Saznajte više"
@@ -342,7 +342,7 @@
         "message": "Resetuj sva korisnička pravila za ovu stranicu"
     },
     "popup_open_settings": {
-        "message": "AdGuard postavke"
+        "message": "Premium AdBlock postavke"
     },
     "popup_block_site_ads_android": {
         "message": "Blokiraj reklame na stranici"
@@ -372,19 +372,19 @@
         "message": "Pošaljite žalbu o ovom sajtu..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ne može da radi na ovom domenu"
+        "message": "Premium AdBlock ne može da radi na ovom domenu"
     },
     "context_disable_protection": {
-        "message": "Pauziraj AdGuard zaštitu"
+        "message": "Pauziraj Premium AdBlock zaštitu"
     },
     "context_enable_protection": {
-        "message": "Nastavi AdGuard zaštitu"
+        "message": "Nastavi Premium AdBlock zaštitu"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard zaštita je pauzirana."
+        "message": "Premium AdBlock zaštita je pauzirana."
     },
     "context_open_settings": {
-        "message": "AdGuard postavke..."
+        "message": "Premium AdBlock postavke..."
     },
     "context_open_log": {
         "message": "Dnevnik prečišćavanja..."
@@ -606,7 +606,7 @@
         "message": "Izmenjeno"
     },
     "options_settings": {
-        "message": "AdGuard postavke"
+        "message": "Premium AdBlock postavke"
     },
     "options_general_settings": {
         "message": "Opšta podešavanja"
@@ -618,7 +618,7 @@
         "message": "Otarasite se <a>sajtova koji se promovišu kao i reklama koje su zasnovane na sadržaju<\/a> a pojavljuju se u rezultatima pretrage."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Prikaži brojblokiranih reklama na ikonici AdGuard dodatka"
+        "message": "Prikaži brojblokiranih reklama na ikonici Premium AdBlock dodatka"
     },
     "options_enable_autodetect_filter": {
         "message": "Automatski uključi najpogodnije filtere"
@@ -693,16 +693,16 @@
         "message": "Zaštita od fišinga i štetnog softvera"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Omogućite AdGuard modul za bezbednost pregledanja koji otkriva potencijalno zlonamerne i phishing lokacije tako što ćete ih proveriti u bazi podataka na mreži. <a>Pročitaj više<\/a>"
+        "message": "Omogućite Premium AdBlock modul za bezbednost pregledanja koji otkriva potencijalno zlonamerne i phishing lokacije tako što ćete ih proveriti u bazi podataka na mreži. <a>Pročitaj više<\/a>"
     },
     "options_site": {
         "message": "Zvanična stranica"
     },
     "options_discuss": {
-        "message": "Raspravljaj o AdGuard-u"
+        "message": "Raspravljaj o Premium AdBlock-u"
     },
     "options_do_you_like_question": {
-        "message": "Dali volite AdGuard?"
+        "message": "Dali volite Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Ocenite nas!"
@@ -711,7 +711,7 @@
         "message": "Dodatne postavke"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Prikaži informacije naAdGuard punoj verziji"
+        "message": "Prikaži informacije naPremium AdBlock punoj verziji"
     },
     "options_show_app_updated_notification": {
         "message": "Obavesti o ažuriranju proširenja"
@@ -735,13 +735,13 @@
         "message": "Greška prilikom vraćanja postavki na podrazumevane vrednosti"
     },
     "options_collect_hit_stats_title": {
-        "message": "Učestvujte u razvoju AdGuard filtera"
+        "message": "Učestvujte u razvoju Premium AdBlock filtera"
     },
     "options_collect_hit_stats_desc": {
         "message": "Šaljite <a>anonimne statističke podatke o korišćenju filtera<\/a> što će nam pomoći da ih unapredimo."
     },
     "options_show_context_menu_title": {
-        "message": "Dodaj AdGuard stavku u kontekstni meni preglednika"
+        "message": "Dodaj Premium AdBlock stavku u kontekstni meni preglednika"
     },
     "options_use_optimized_filters": {
         "message": "Koristi optimizovane filtere"
@@ -798,13 +798,13 @@
         "message": "Ukloni parametre praćenja"
     },
     "options_strip_tracking_params_description": {
-        "message": "Uklanjanje parametara iz Veb zahteva pomoću AdGuard FILTERA ZA PRAĆENJE URL adrese"
+        "message": "Uklanjanje parametara iz Veb zahteva pomoću Premium AdBlock FILTERA ZA PRAĆENJE URL adrese"
     },
     "options_block_known_trackers_title": {
         "message": "Blokiraj praćenja"
     },
     "options_block_known_trackers_description": {
-        "message": "Blokiranje alatki za veb analitiku pomoću filtera AdGuard zaštita od praćenja"
+        "message": "Blokiranje alatki za veb analitiku pomoću filtera Premium AdBlock zaštita od praćenja"
     },
     "options_third_party_title": {
         "message": "Samouništavajući kolačići trećeg lica"
@@ -846,7 +846,7 @@
         "message": "Prekidač zaštite"
     },
     "short_name": {
-        "message": "AdGuard blokator reklama"
+        "message": "Premium AdBlock blokator reklama"
     },
     "options_about": {
         "message": "O programu"
@@ -873,7 +873,7 @@
         "message": "Ukloni"
     },
     "options_nav_better_than_extension": {
-        "message": "Zašto je AdGuard pun program bolji od proširenja?"
+        "message": "Zašto je Premium AdBlock pun program bolji od proširenja?"
     },
     "options_nav_compare": {
         "message": "Uporedi"
@@ -882,7 +882,7 @@
         "message": "Traži"
     },
     "options_about_title": {
-        "message": "AdGuard proširenje za preglednike"
+        "message": "Premium AdBlock proširenje za preglednike"
     },
     "group_description_adblocking": {
         "message": "Ovde konfigurišite blokiranje reklama kako biste se nosili sa dosadnim banerima, iskačući prozorima, video reklamama jednom i zauvek."
@@ -900,7 +900,7 @@
         "message": "Zaštitite se od zlonamernog softvera, fišinga i drugih pretnji na mreži."
     },
     "group_description_miscellaneous": {
-        "message": "Više postavki za još više podešavanja vašeg surfovanja sa AdGuard-om."
+        "message": "Više postavki za još više podešavanja vašeg surfovanja sa Premium AdBlock-om."
     },
     "group_description_custom": {
         "message": "Stvorite vaše filtere i fino filtrirajte veb kako vam se sviđa."
@@ -1023,13 +1023,13 @@
         "message": "Pristup odbijen"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard je blokirao pristup ovoj stranici"
+        "message": "Premium AdBlock je blokirao pristup ovoj stranici"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blokirao AdGuard"
+        "message": "Blokirao Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard je sprečio učitavanje ove stranice zbog sledećeg pravila filtera"
+        "message": "Premium AdBlock je sprečio učitavanje ove stranice zbog sledećeg pravila filtera"
     },
     "blocking_pages_btn_go_back": {
         "message": "Vrati se"

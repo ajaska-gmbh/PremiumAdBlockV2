@@ -27,10 +27,10 @@
         "message": "Ekstensi berkas harus %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard untuk iOS"
+        "message": "Premium AdBlock untuk iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard untuk Android"
+        "message": "Premium AdBlock untuk Android"
     },
     "options_filters_filter_version": {
         "message": "versi:"
@@ -45,7 +45,7 @@
         "message": "Matikan notifikasi"
     },
     "popup_adguard_footer_title": {
-        "message": "Dapatkan AdGuard diponsel Anda"
+        "message": "Dapatkan Premium AdBlock diponsel Anda"
     },
     "options_popup_call_to_action": {
         "message": "Masukkan URL atau lokasi file dari filter yang benar pada kotak isian diatas."
@@ -96,7 +96,7 @@
         "message": "Berlangganan"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "Premium AdBlock AdBlocker"
     },
     "description": {
         "message": "Ekstensi adblock tidak cocok melawan iklan dan pop-ups. Blokir iklan pada Facebook, YouTube dan semua situs lainnya."
@@ -108,7 +108,7 @@
         "message": "Daftar Putih"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard tidak memfilter situs web dari daftar putih."
+        "message": "Premium AdBlock tidak memfilter situs web dari daftar putih."
     },
     "options_allowlist_invert": {
         "message": "Balikkan daftar Putih"
@@ -315,7 +315,7 @@
         "message": "yang diperbarui."
     },
     "options_popup_version_update_title_text": {
-        "message": "Ekstensi AdGuard telah diperbarui ke versi %current_version%"
+        "message": "Ekstensi Premium AdBlock telah diperbarui ke versi %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Versi ini berisi perbaikan bug dan peningkatan minor"
@@ -327,7 +327,7 @@
         "message": "Apa yang terbaru pada versi ini?"
     },
     "options_popup_version_update_offer": {
-        "message": "Apakah Anda tahu bahwa kemampuan AdGuard tidak hanya sebatas pada peramban ini?"
+        "message": "Apakah Anda tahu bahwa kemampuan Premium AdBlock tidak hanya sebatas pada peramban ini?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "PELAJARI LEBIH"
@@ -342,7 +342,7 @@
         "message": "Hapus semua aturan pengguna untuk halaman ini"
     },
     "popup_open_settings": {
-        "message": "Pengaturan AdGuard"
+        "message": "Pengaturan Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Blok iklan pada sebuah situs"
@@ -372,19 +372,19 @@
         "message": "Lapor masalah..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard tidak bisa dijalankan pada domain ini"
+        "message": "Premium AdBlock tidak bisa dijalankan pada domain ini"
     },
     "context_disable_protection": {
-        "message": "Jeda perlindungan AdGuard"
+        "message": "Jeda perlindungan Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Lanjutkan perlindungan AdGuard"
+        "message": "Lanjutkan perlindungan Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Perlindungan AdGuard sedang dijeda"
+        "message": "Perlindungan Premium AdBlock sedang dijeda"
     },
     "context_open_settings": {
-        "message": "Pengaturan AdGuard..."
+        "message": "Pengaturan Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Log penyaringan..."
@@ -591,7 +591,7 @@
         "message": "Diubah"
     },
     "options_settings": {
-        "message": "Pengaturan AdGuard"
+        "message": "Pengaturan Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Pengaturan Umum"
@@ -603,7 +603,7 @@
         "message": "Singkirkan <a>promosi diri situs web dan iklan berbasis konteks<\/a> yang muncul di hasil penelusuran."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Mengindikasikan jumlah iklan yang diblokir pada ikon ekstensi AdGuard"
+        "message": "Mengindikasikan jumlah iklan yang diblokir pada ikon ekstensi Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Aktifkan penyaring yang paling sesuai secara otomatis"
@@ -678,16 +678,16 @@
         "message": "Perlindungan dari phishing dan program"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Aktifkan modul Keamanan Penjelajahan AdGuard yang mendeteksi situs yang berpotensi berbahaya dan phishing dengan memeriksanya di database online. <a>Baca selengkapnya<\/a>"
+        "message": "Aktifkan modul Keamanan Penjelajahan Premium AdBlock yang mendeteksi situs yang berpotensi berbahaya dan phishing dengan memeriksanya di database online. <a>Baca selengkapnya<\/a>"
     },
     "options_site": {
         "message": "Situs Resmi"
     },
     "options_discuss": {
-        "message": "Diskusikan AdGuard"
+        "message": "Diskusikan Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Anda menyukai AdGuard?"
+        "message": "Anda menyukai Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Berikan nilai!"
@@ -696,7 +696,7 @@
         "message": "Pengaturan tambahan"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Tampilkan informasi pada versi penuh AdGuard"
+        "message": "Tampilkan informasi pada versi penuh Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Beritahu tentang pembaruan ekstensi"
@@ -726,7 +726,7 @@
         "message": "Kirim <a>statistik anonim penggunaan filter iklan<\/a> yang akan membantu kami meningkatkan dan mengoptimalkannya."
     },
     "options_show_context_menu_title": {
-        "message": "Tambahkan item AdGuard ke konteks menu browser"
+        "message": "Tambahkan item Premium AdBlock ke konteks menu browser"
     },
     "options_use_optimized_filters": {
         "message": "Gunakan penyaring teroptimasi"
@@ -822,7 +822,7 @@
         "message": "Beralih perlindungan"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Tentang"
@@ -852,7 +852,7 @@
         "message": "Cari"
     },
     "options_about_title": {
-        "message": "Ekstensi Browser AdGuard"
+        "message": "Ekstensi Browser Premium AdBlock"
     },
     "group_description_adblocking": {
         "message": "Konfigurasikan pemblokiran iklan di sini untuk menangani spanduk, pop-up, iklan video, dan semacamnya yang mengganggu, sekali dan untuk semua."
@@ -867,7 +867,7 @@
         "message": "Hapus jendela pop-up dan ganguan pemberitahuan lainnya seperti pemberitahuan cookie."
     },
     "group_description_miscellaneous": {
-        "message": "Pengaturan lain untuk konfigurasi penjelajahan web Anda dengan AdGuard lebih jauh."
+        "message": "Pengaturan lain untuk konfigurasi penjelajahan web Anda dengan Premium AdBlock lebih jauh."
     },
     "group_description_custom": {
         "message": "Buat filter Anda sendiri untuk menyempurnakan pemfilteran web sesuai keinginan Anda."
@@ -990,13 +990,13 @@
         "message": "Akses ditolak"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard telah memblokir akses ke halaman ini"
+        "message": "Premium AdBlock telah memblokir akses ke halaman ini"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Diblokir oleh AdGuard"
+        "message": "Diblokir oleh Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard telah mencegah pemuatan halaman ini karena aturan filter berikut"
+        "message": "Premium AdBlock telah mencegah pemuatan halaman ini karena aturan filter berikut"
     },
     "blocking_pages_btn_go_back": {
         "message": "Kembali"

@@ -27,10 +27,10 @@
         "message": "Расширение файла должно быть %extension%"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard для iOS"
+        "message": "Premium AdBlock для iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard для Android"
+        "message": "Premium AdBlock для Android"
     },
     "options_filters_filter_version": {
         "message": "Версия:"
@@ -45,7 +45,7 @@
         "message": "Отключить уведомления"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard для мобильных устройств"
+        "message": "Premium AdBlock для мобильных устройств"
     },
     "options_popup_call_to_action": {
         "message": "Введите корректный URL фильтра или путь к локальному файлу в строку выше."
@@ -96,7 +96,7 @@
         "message": "Подписаться"
     },
     "name": {
-        "message": "AdGuard Антибаннер"
+        "message": "Premium AdBlock Антибаннер"
     },
     "description": {
         "message": "Непревзойденная защита от рекламы и всплывающих окон. Блокирует рекламу в VK (Вконтакте), Одноклассники, Facebook, на YouTube и других сайтах."
@@ -108,7 +108,7 @@
         "message": "Белый список"
     },
     "options_allowlist_desc": {
-        "message": "AdGuard не фильтрует рекламу на сайтах, добавленных в белый список."
+        "message": "Premium AdBlock не фильтрует рекламу на сайтах, добавленных в белый список."
     },
     "options_allowlist_invert": {
         "message": "Инвертировать белый список"
@@ -315,7 +315,7 @@
         "message": "обновлены."
     },
     "options_popup_version_update_title_text": {
-        "message": "Расширение AdGuard было обновлено до версии %current_version%"
+        "message": "Расширение Premium AdBlock было обновлено до версии %current_version%"
     },
     "options_popup_version_update_description_minor": {
         "message": "Эта версия содержит в основном исправления ошибок и незначительные улучшения."
@@ -327,7 +327,7 @@
         "message": "Что нового в этой версии?"
     },
     "options_popup_version_update_offer": {
-        "message": "Вы знали, что возможности AdGuard не ограничиваются только блокировкой в этом браузере?"
+        "message": "Вы знали, что возможности Premium AdBlock не ограничиваются только блокировкой в этом браузере?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ПОДРОБНЕЕ"
@@ -342,7 +342,7 @@
         "message": "Удалить все пользовательские правила для этой страницы"
     },
     "popup_open_settings": {
-        "message": "Настройки AdGuard"
+        "message": "Настройки Premium AdBlock"
     },
     "popup_block_site_ads_android": {
         "message": "Заблокировать рекламу на сайте"
@@ -372,19 +372,19 @@
         "message": "Сообщить о проблеме..."
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard не работает на этом домене"
+        "message": "Premium AdBlock не работает на этом домене"
     },
     "context_disable_protection": {
-        "message": "Приостановить защиту AdGuard"
+        "message": "Приостановить защиту Premium AdBlock"
     },
     "context_enable_protection": {
-        "message": "Возобновить защиту AdGuard"
+        "message": "Возобновить защиту Premium AdBlock"
     },
     "context_site_protection_disabled": {
-        "message": "Защита AdGuard приостановлена"
+        "message": "Защита Premium AdBlock приостановлена"
     },
     "context_open_settings": {
-        "message": "Настроить AdGuard..."
+        "message": "Настроить Premium AdBlock..."
     },
     "context_open_log": {
         "message": "Журнал фильтрации..."
@@ -606,7 +606,7 @@
         "message": "Изменен"
     },
     "options_settings": {
-        "message": "Настройки AdGuard"
+        "message": "Настройки Premium AdBlock"
     },
     "options_general_settings": {
         "message": "Основные"
@@ -618,7 +618,7 @@
         "message": "Избавьтесь от <a>саморекламы сайтов и контекстной рекламы<\/a>, появляющейся в результатах поиска."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "Показывать количество заблокированной рекламы на иконке расширения AdGuard"
+        "message": "Показывать количество заблокированной рекламы на иконке расширения Premium AdBlock"
     },
     "options_enable_autodetect_filter": {
         "message": "Автоматически подключать наиболее подходящие фильтры"
@@ -699,10 +699,10 @@
         "message": "Официальный сайт"
     },
     "options_discuss": {
-        "message": "Обсудить AdGuard"
+        "message": "Обсудить Premium AdBlock"
     },
     "options_do_you_like_question": {
-        "message": "Вам нравится AdGuard?"
+        "message": "Вам нравится Premium AdBlock?"
     },
     "options_footer_like_us_cta": {
         "message": "Оцените приложение!"
@@ -711,7 +711,7 @@
         "message": "Дополнительные настройки"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Показывать информацию о полной версии AdGuard"
+        "message": "Показывать информацию о полной версии Premium AdBlock"
     },
     "options_show_app_updated_notification": {
         "message": "Уведомлять об обновлениях расширения"
@@ -735,13 +735,13 @@
         "message": "Ошибка при сбросе настроек"
     },
     "options_collect_hit_stats_title": {
-        "message": "Помочь с разработкой фильтров AdGuard"
+        "message": "Помочь с разработкой фильтров Premium AdBlock"
     },
     "options_collect_hit_stats_desc": {
         "message": "Отправляйте <a>анонимную статистику использования рекламных фильтров<\/a>, это поможет нам улучшить и оптимизировать их."
     },
     "options_show_context_menu_title": {
-        "message": "Добавить AdGuard в контекстное меню браузера"
+        "message": "Добавить Premium AdBlock в контекстное меню браузера"
     },
     "options_use_optimized_filters": {
         "message": "Использовать оптимизированные фильтры"
@@ -846,7 +846,7 @@
         "message": "Переключение защиты"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "О программе"
@@ -873,7 +873,7 @@
         "message": "Удалить"
     },
     "options_nav_better_than_extension": {
-        "message": "Почему приложение AdGuard лучше расширения?"
+        "message": "Почему приложение Premium AdBlock лучше расширения?"
     },
     "options_nav_compare": {
         "message": "Сравнить"
@@ -882,7 +882,7 @@
         "message": "Поиск"
     },
     "options_about_title": {
-        "message": "Браузерное расширение AdGuard"
+        "message": "Браузерное расширение Premium AdBlock"
     },
     "group_description_adblocking": {
         "message": "Настроить блокировку рекламы, чтобы раз и навсегда избавиться от надоедливых баннеров, всплывающих окон, видеорекламы и прочих раздражителей."
@@ -900,7 +900,7 @@
         "message": "Защитите себя от вредоносных программ, фишинга и других онлайн-угроз."
     },
     "group_description_miscellaneous": {
-        "message": "Дополнительные настройки, чтобы сделать веб-сёрфинг ещё более удобным с помощью AdGuard."
+        "message": "Дополнительные настройки, чтобы сделать веб-сёрфинг ещё более удобным с помощью Premium AdBlock."
     },
     "group_description_custom": {
         "message": "Создавайте свои фильтры, чтобы ещё более детально настроить веб-фильтрацию под себя."
@@ -1023,13 +1023,13 @@
         "message": "Доступ заблокирован"
     },
     "blocking_pages_safe_header_title": {
-        "message": "AdGuard заблокировал доступ к этой странице"
+        "message": "Premium AdBlock заблокировал доступ к этой странице"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Заблокировано AdGuard"
+        "message": "Заблокировано Premium AdBlock"
     },
     "blocking_pages_rule_content_title": {
-        "message": "AdGuard предотвратил загрузку этой страницы в соответствии со следующим правилом фильтрации"
+        "message": "Premium AdBlock предотвратил загрузку этой страницы в соответствии со следующим правилом фильтрации"
     },
     "blocking_pages_btn_go_back": {
         "message": "Назад"

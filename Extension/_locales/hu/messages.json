@@ -27,10 +27,10 @@
         "message": "A fájl kiterjesztése %extension% kell, hogy legyen"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard iOS-re"
+        "message": "Premium AdBlock iOS-re"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard Androidra"
+        "message": "Premium AdBlock Androidra"
     },
     "options_filters_filter_version": {
         "message": "verzió:"
@@ -45,7 +45,7 @@
         "message": "Értesítések letiltása"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard beszerzése mobilra"
+        "message": "Premium AdBlock beszerzése mobilra"
     },
     "options_popup_call_to_action": {
         "message": "Írja be a szűrő érvényes URL-jét vagy fájlútvonalát a fenti mezőbe."
@@ -96,7 +96,7 @@
         "message": "Feliratkozás"
     },
     "name": {
-        "message": "AdGuard Hirdetésblokkoló"
+        "message": "Premium AdBlock Hirdetésblokkoló"
     },
     "description": {
         "message": "Páratlan adblock kiegészítő a reklámok és a felugró ablakok ellen. Blokkolja a Facebook, a YouTube és az összes többi webhely hirdetéseit."
@@ -108,7 +108,7 @@
         "message": "Kivételek"
     },
     "options_allowlist_desc": {
-        "message": "Az AdGuard nem szűri a kivételek listáján szereplő oldalakat."
+        "message": "Az Premium AdBlock nem szűri a kivételek listáján szereplő oldalakat."
     },
     "options_allowlist_invert": {
         "message": "Kivételek megfordítása"
@@ -315,7 +315,7 @@
         "message": "frissítve lett."
     },
     "options_popup_version_update_title_text": {
-        "message": "Az AdGuard kiegészítő a(z) %current_version% verzióra frissült"
+        "message": "Az Premium AdBlock kiegészítő a(z) %current_version% verzióra frissült"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ez a verzió leginkább hibajavításokat, valamint kisebb fejlesztéseket tartalmaz."
@@ -327,7 +327,7 @@
         "message": "Mik az újdonságok ebben a verzióban?"
     },
     "options_popup_version_update_offer": {
-        "message": "Tudta, hogy az AdGuard képességei nem csak erre a böngészőre korlátozódnak?"
+        "message": "Tudta, hogy az Premium AdBlock képességei nem csak erre a böngészőre korlátozódnak?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "TUDJON MEG TÖBBET"
@@ -342,7 +342,7 @@
         "message": "Felhasználói szabályok törlése ezen az oldalon"
     },
     "popup_open_settings": {
-        "message": "AdGuard beállítások"
+        "message": "Premium AdBlock beállítások"
     },
     "popup_block_site_ads_android": {
         "message": "Hirdetések blokkolása a webhelyen"
@@ -372,19 +372,19 @@
         "message": "Probléma bejelentése..."
     },
     "context_site_filtering_disabled": {
-        "message": "Az AdGuard nem tud futni ezen a domainen"
+        "message": "Az Premium AdBlock nem tud futni ezen a domainen"
     },
     "context_disable_protection": {
-        "message": "AdGuard védelem szüneteltetése"
+        "message": "Premium AdBlock védelem szüneteltetése"
     },
     "context_enable_protection": {
-        "message": "AdGuard védelem folytatása"
+        "message": "Premium AdBlock védelem folytatása"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard védelem szüneteltetve"
+        "message": "Premium AdBlock védelem szüneteltetve"
     },
     "context_open_settings": {
-        "message": "AdGuard beállítások..."
+        "message": "Premium AdBlock beállítások..."
     },
     "context_open_log": {
         "message": "Szűrési napló..."
@@ -606,7 +606,7 @@
         "message": "Módosítva"
     },
     "options_settings": {
-        "message": "AdGuard beállítások"
+        "message": "Premium AdBlock beállítások"
     },
     "options_general_settings": {
         "message": "Általános beállítások"
@@ -618,7 +618,7 @@
         "message": "Szabaduljon meg a <a>webhelyek önpromóciós reklámjaitól és a kontextusalapú hirdetésektől<\/a>, amelyek a keresési eredmények között jelennek meg."
     },
     "options_show_blocked_ads_count_title": {
-        "message": "A blokkolt hirdetések számának megjelenítése az AdGuard kiegészítő ikonján"
+        "message": "A blokkolt hirdetések számának megjelenítése az Premium AdBlock kiegészítő ikonján"
     },
     "options_enable_autodetect_filter": {
         "message": "A megfelelő szűrők automatikus aktiválása"
@@ -693,7 +693,7 @@
         "message": "Adathalászat- és kártevők elleni védelem"
     },
     "options_safebrowsing_enabled_desc": {
-        "message": "Az AdGuard Böngészési Biztonság moduljának engedélyezése, amely felismeri a potenciálisan rosszindulatú és adathalász webhelyeket azáltal, hogy összeveti őket egy online adatbázissal. <a>További információ<\/a>"
+        "message": "Az Premium AdBlock Böngészési Biztonság moduljának engedélyezése, amely felismeri a potenciálisan rosszindulatú és adathalász webhelyeket azáltal, hogy összeveti őket egy online adatbázissal. <a>További információ<\/a>"
     },
     "options_site": {
         "message": "Hivatalos webhely"
@@ -702,7 +702,7 @@
         "message": "Fórum"
     },
     "options_do_you_like_question": {
-        "message": "Szereti az AdGuardot?"
+        "message": "Szereti az Premium AdBlockot?"
     },
     "options_footer_like_us_cta": {
         "message": "Értékeljen minket!"
@@ -711,7 +711,7 @@
         "message": "Vegyes"
     },
     "options_show_adguard_full_version_title": {
-        "message": "Információ megjelenítése a teljes verziós AdGuardon"
+        "message": "Információ megjelenítése a teljes verziós Premium AdBlockon"
     },
     "options_show_app_updated_notification": {
         "message": "Értesítsen a kiegészítő frissítéseiről"
@@ -735,13 +735,13 @@
         "message": "Hiba történt a beállítások alaphelyzetbe állításakor"
     },
     "options_collect_hit_stats_title": {
-        "message": "Segítsen az AdGuard szűrőinek fejlesztésében"
+        "message": "Segítsen az Premium AdBlock szűrőinek fejlesztésében"
     },
     "options_collect_hit_stats_desc": {
         "message": "Küldjön <a>névtelen statisztikákat a hirdetésszűrők használatáról<\/a>, ezzel segíti a javítást és optimalizálást."
     },
     "options_show_context_menu_title": {
-        "message": "Az AdGuard hozzáadása a böngésző helyi menüjéhez"
+        "message": "Az Premium AdBlock hozzáadása a böngésző helyi menüjéhez"
     },
     "options_use_optimized_filters": {
         "message": "Optimalizált szűrők használata"
@@ -798,13 +798,13 @@
         "message": "Követési paraméterek levágása"
     },
     "options_strip_tracking_params_description": {
-        "message": "Az AdGuard URL Tracking filter segítségével eltávolítja a paramétereket a webes kérésekből."
+        "message": "Az Premium AdBlock URL Tracking filter segítségével eltávolítja a paramétereket a webes kérésekből."
     },
     "options_block_known_trackers_title": {
         "message": "Nyomkövetők blokkolása"
     },
     "options_block_known_trackers_description": {
-        "message": "Az AdGuard Tracking Protection szűrő segítségével blokkolja a nyomkövetőket és az elemző eszközöket."
+        "message": "Az Premium AdBlock Tracking Protection szűrő segítségével blokkolja a nyomkövetőket és az elemző eszközöket."
     },
     "options_third_party_title": {
         "message": "Harmadik féltől származó sütik önmegsemmisítése"
@@ -846,7 +846,7 @@
         "message": "Védelem kapcsoló"
     },
     "short_name": {
-        "message": "AdGuard"
+        "message": "Premium AdBlock"
     },
     "options_about": {
         "message": "Névjegy"
@@ -873,7 +873,7 @@
         "message": "Eltávolítás"
     },
     "options_nav_better_than_extension": {
-        "message": "Miért jobb az AdGuard alkalmazás, mint a böngészőbővítmény?"
+        "message": "Miért jobb az Premium AdBlock alkalmazás, mint a böngészőbővítmény?"
     },
     "options_nav_compare": {
         "message": "Összehasonlítás"
@@ -882,7 +882,7 @@
         "message": "Keresés"
     },
     "options_about_title": {
-        "message": "AdGuard Böngészőkiegészítő"
+        "message": "Premium AdBlock Böngészőkiegészítő"
     },
     "group_description_adblocking": {
         "message": "Itt tudja beállítani a hirdetésblokkolást, hogy egyszer és mindenkorra megszabaduljon a szalaghirdetésektől, felugró ablakoktól, videohirdetésektől, stb."
@@ -900,7 +900,7 @@
         "message": "Védje magát a rosszindulatú programokkal, adathalászokkal és más online fenyegetésekkel szemben."
     },
     "group_description_miscellaneous": {
-        "message": "Egyéb beállítások, amelyekkel még tovább fokozhatja a webes böngészését az AdGuarddal."
+        "message": "Egyéb beállítások, amelyekkel még tovább fokozhatja a webes böngészését az Premium AdBlockdal."
     },
     "group_description_custom": {
         "message": "Hozza létre saját szűrőit a szűrés tetszés szerinti finomhangolásához."
@@ -1023,13 +1023,13 @@
         "message": "Hozzáférés megtagadva"
     },
     "blocking_pages_safe_header_title": {
-        "message": "Az AdGuard blokkolta a hozzáférést ehhez az oldalhoz"
+        "message": "Az Premium AdBlock blokkolta a hozzáférést ehhez az oldalhoz"
     },
     "blocking_pages_rule_header_title": {
-        "message": "Blokkolva az AdGuard által"
+        "message": "Blokkolva az Premium AdBlock által"
     },
     "blocking_pages_rule_content_title": {
-        "message": "Az AdGuard megakadályozta ezen oldal betöltését az alábbi szűrőszabály miatt"
+        "message": "Az Premium AdBlock megakadályozta ezen oldal betöltését az alábbi szűrőszabály miatt"
     },
     "blocking_pages_btn_go_back": {
         "message": "Visszalépés"
