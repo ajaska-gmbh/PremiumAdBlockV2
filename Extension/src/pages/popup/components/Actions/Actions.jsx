@@ -103,9 +103,24 @@ export const Actions = observer(() => {
                     classname="icon--action"
                 />
                 <div className="action-title">
-                    {reactTranslator.getMessage('popup_security_report')}
+                    {reactTranslator.getMessage('popup_already_account')}
                 </div>
             </button>
+            <div className="hide">
+                <button
+                    type="button"
+                    className={actionChangingClassname}
+                    onClick={handleCheckSiteSecurity}
+                >
+                    <Icon
+                        id="#shield"
+                        classname="icon--action"
+                    />
+                    <div className="action-title">
+                        {reactTranslator.getMessage('popup_security_report')}
+                    </div>
+                </button>
+            </div>
             { store.hasCustomRulesToReset
             && (
                 <button
