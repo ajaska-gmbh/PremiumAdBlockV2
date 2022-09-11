@@ -107,10 +107,10 @@ export const uiService = (function () {
 
         const action = `${browser}_store`;
 
-        return `https://link.adtidy.org/forward.html?action=${action}&from=options_screen&app=browser_extension`;
+        return `https://premiumadblock.com/forward/?action=${action}&from=options_screen&app=browser_extension`;
     })();
 
-    const THANKYOU_PAGE_URL = 'https://link.adtidy.org/forward.html?action=thank_you_page&from=background&app=browser_extension';
+    const THANKYOU_PAGE_URL = 'https://premiumadblock.com/forward/?action=thank_you_page&from=background&app=browser_extension';
 
     /**
      * Update icon for tab
@@ -455,7 +455,7 @@ export const uiService = (function () {
 
         let offer = translator.getMessage('options_popup_version_update_offer');
         let offerDesc = '';
-        let offerButtonHref = 'https://link.adtidy.org/forward.html?action=learn_about_adguard&from=version_popup&app=browser_extension';
+        let offerButtonHref = 'https://premiumadblock.com/forward/?action=learn_about_adguard&from=version_popup&app=browser_extension';
         let offerButtonText = translator.getMessage('options_popup_version_update_offer_button_text');
 
         if (promoNotification) {
